@@ -51,11 +51,11 @@ The decision to deploy should not be made by AI actors carrying out design and d
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from [Federal Reserve](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
+Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). [URL](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
 
-Elisa Jillson. 2021. Aiming for truth, fairness, and equity in your company’s use of AI (April 19, 2021). Retrieved on July 7, 2022 from [FTC](https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)
+Elisa Jillson. 2021. Aiming for truth, fairness, and equity in your company’s use of AI (April 19, 2021). [URL](https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)
 
-Sarah Spiekermann and Till Winkler. 2020. Value-based Engineering for Ethics by Design. arXiv:2004.13676. Retrieved from [arXiv:2004.13676](https://arxiv.org/abs/2004.13676)
+Sarah Spiekermann and Till Winkler. 2020. Value-based Engineering for Ethics by Design. arXiv:2004.13676. [URL](https://arxiv.org/abs/2004.13676)
 
-Sri Krishnamurthy. Quantifying Model Risk: Issues and approaches to measure and assess model risk when building quant models. QuantUniversity, Charlestown, MA. Retrieved on July 7, 2022 from [citeseerx.ist.psu.edu](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.986.5412&rep=rep1&type=pdf)
+Sri Krishnamurthy. Quantifying Model Risk: Issues and approaches to measure and assess model risk when building quant models. QuantUniversity, Charlestown, MA. [URL](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.986.5412&rep=rep1&type=pdf)
 

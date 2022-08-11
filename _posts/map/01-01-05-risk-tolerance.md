@@ -51,8 +51,8 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 <details>
 <summary markdown="span">**References**</summary>    
 <br>
-Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
+Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). [URL](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
 
-The Office of the Comptroller of the Currency. Enterprise Risk Appetite Statement. (Nov. 20, 2019). Retrieved on July 12, 2022 from https://www.occ.treas.gov/publications-and-resources/publications/banker-education/files/pub-risk-appetite-statement.pdf
+The Office of the Comptroller of the Currency. Enterprise Risk Appetite Statement. (Nov. 20, 2019). [URL](https://www.occ.treas.gov/publications-and-resources/publications/banker-education/files/pub-risk-appetite-statement.pdf)
 
 </details>

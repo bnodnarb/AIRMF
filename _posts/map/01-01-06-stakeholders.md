@@ -51,11 +51,11 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 <details>
 <summary markdown="span">**References**</summary>    
 <br>
-Vincent T. Covello. 2021. Stakeholder Engagement and Empowerment. In Communicating in Risk, Crisis, and High Stress Situations (Vincent T. Covello, ed.), 87-109. DOI: https://doi.org/10.1002/9781119081753.ch5
+Vincent T. Covello. 2021. Stakeholder Engagement and Empowerment. In Communicating in Risk, Crisis, and High Stress Situations (Vincent T. Covello, ed.), 87-109. [URL](https://doi.org/10.1002/9781119081753.ch5)
 
-Yilin Huang, Giacomo Poderi, Sanja Šćepanović, et al. 2019. Embedding Internet-of-Things in Large-Scale Socio-technical Systems: A Community-Oriented Design in Future Smart Grids. In The Internet of Things for Smart Urban Ecosystems (2019), 125-150. Springer, Cham. DOI: https://doi.org/10.1007/978-3-319-96550-5_6
+Yilin Huang, Giacomo Poderi, Sanja Šćepanović, et al. 2019. Embedding Internet-of-Things in Large-Scale Socio-technical Systems: A Community-Oriented Design in Future Smart Grids. In The Internet of Things for Smart Urban Ecosystems (2019), 125-150. Springer, Cham. [URL](https://doi.org/10.1007/978-3-319-96550-5_6)
 
-Eloise Taysom and Nathan Crilly. 2017. Resilience in Sociotechnical Systems: The Perspectives of Multiple Stakeholders. She Ji: The Journal of Design, Economics, and Innovation, 3, 3 (2017), 165-182, ISSN 2405-8726. DOI: https://doi.org/10.1016/j.sheji.2017.10.011
+Eloise Taysom and Nathan Crilly. 2017. Resilience in Sociotechnical Systems: The Perspectives of Multiple Stakeholders. She Ji: The Journal of Design, Economics, and Innovation, 3, 3 (2017), 165-182, ISSN 2405-8726. [URL](https://doi.org/10.1016/j.sheji.2017.10.011)
 
 </details>
 

@@ -49,16 +49,16 @@ Anticipating negative impacts of AI systems is a difficult task. Negative impact
 <details>
 <summary markdown="span">**References**</summary>    
 <br>
-Abagayle Lee Blank. 2019. Computer vision machine learning and future-oriented ethics. Honors Project. Seattle Pacific University (SPU), Seattle, WA. Available at https://digitalcommons.spu.edu/cgi/viewcontent.cgi?article=1100&context=honorsprojects
+Abagayle Lee Blank. 2019. Computer vision machine learning and future-oriented ethics. Honors Project. Seattle Pacific University (SPU), Seattle, WA. [URL](https://digitalcommons.spu.edu/cgi/viewcontent.cgi?article=1100&context=honorsprojects)
 
-Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from https://arxiv.org/abs/2011.13416
+Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. [URL](https://arxiv.org/abs/2011.13416)
 
-Jeff Patton. 2014. User Story Mapping. O'Reilly, Sebastopol, CA. See https://www.jpattonassociates.com/story-mapping/
+Jeff Patton. 2014. User Story Mapping. O'Reilly, Sebastopol, CA. [URL](https://www.jpattonassociates.com/story-mapping/)
 
 Margarita Boenig-Liptsin, Anissa Tanweer & Ari Edmundson (2022) Data Science Ethos Lifecycle: Interplay of ethical thinking and data science practice, Journal of Statistics and Data Science Education, DOI: 10.1080/26939169.2022.2089411
 
 J. Cohen, D. S. Katz, M. Barker, N. Chue Hong, R. Haines and C. Jay, "The Four Pillars of Research Software Engineering," in IEEE Software, vol. 38, no. 1, pp. 97-105, Jan.-Feb. 2021, doi: 10.1109/MS.2020.2973362.
 
-National Academies of Sciences, Engineering, and Medicine 2022. "Introduction" in Fostering Responsible Computing Research: Foundations and Practices. Washington, DC: The National Academies Press. https://doi.org/10.17226/26507.
+National Academies of Sciences, Engineering, and Medicine 2022. Fostering Responsible Computing Research: Foundations and Practices. Washington, DC: The National Academies Press. [URL](https://doi.org/10.17226/26507)
 
 </details>

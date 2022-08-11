@@ -51,8 +51,8 @@ For example, open-ended chatbot systems that interact with the public on the int
 <br>
 Mark J. Van der Laan and Sherri Rose (2018). Targeted Learning in Data Science. Cham: Springer International Publishing, 2018.
 
-Alice Zheng. 2015. Evaluating Machine Learning Models (2015). O'Reilly. Retrieved from https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/.
+Alice Zheng. 2015. Evaluating Machine Learning Models (2015). O'Reilly. [URL](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
 
-Brenda Leong and Patrick Hall (2021). 5 things lawyers should know about artificial intelligence. ABA Journal. Retrieved from https://www.abajournal.com/columns/article/5-things-lawyers-should-know-about-artificial-intelligence.
+Brenda Leong and Patrick Hall (2021). 5 things lawyers should know about artificial intelligence. ABA Journal. [URL](https://www.abajournal.com/columns/article/5-things-lawyers-should-know-about-artificial-intelligence)
 
 </details>

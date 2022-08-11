@@ -45,9 +45,9 @@ In the course of their work, AI actors often utilize open-source, or otherwise f
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Office of the Comptroller of the Currency. 2021. Comptroller's Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from [OCC](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
+Office of the Comptroller of the Currency. 2021. Comptroller's Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022. [URL](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
 
-“Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021, available at [URL](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf)
+Proposed Interagency Guidance on Third-Party Relationships: Risk Management, 2021. [URL](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf)
 
 </details>
 

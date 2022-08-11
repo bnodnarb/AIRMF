@@ -51,24 +51,24 @@ The Map function provides an opportunity for organizations to assess potential A
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Susanne Vernim, Harald Bauer, Erwin Rauch, et al. 2022. A value sensitive design approach for designing AI-based worker assistance systems in manufacturing. Procedia Comput. Sci. 200, C (2022), 505–516. [DOI](https://doi.org/10.1016/j.procs.2022.01.248)
+Susanne Vernim, Harald Bauer, Erwin Rauch, et al. 2022. A value sensitive design approach for designing AI-based worker assistance systems in manufacturing. Procedia Comput. Sci. 200, C (2022), 505–516. [URL](https://doi.org/10.1016/j.procs.2022.01.248)
 
-Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. arXiv:1901.10002. Retrieved from [arXiv:1901.10002](https://arxiv.org/abs/1901.10002)
+Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. arXiv:1901.10002. Retrieved from [URL](https://arxiv.org/abs/1901.10002)
 
-Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from [arXiv:2011.13416()]https://arxiv.org/abs/2011.13416)
+Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. [URL](https://arxiv.org/abs/2011.13416)
 
-Konstantinia Charitoudi and Andrew Blyth. A Socio-Technical Approach to Cyber Risk Management and Impact Assessment. Journal of Information Security 4, 1 (2013), 33-41. [DOI:](http://dx.doi.org/10.4236/jis.2013.41005)
+Konstantinia Charitoudi and Andrew Blyth. A Socio-Technical Approach to Cyber Risk Management and Impact Assessment. Journal of Information Security 4, 1 (2013), 33-41. [URL](http://dx.doi.org/10.4236/jis.2013.41005)
 
 Raji, I.D., Smart, A., White, R.N., Mitchell, M., Gebru, T., Hutchinson, B., Smith-Loud, J., Theron, D., & Barnes, P. (2020). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.
 
-Emanuel Moss, Elizabeth Anne Watkins, Ranjit Singh, Madeleine Clare Elish, & Jacob Metcalf. 2021. Assemlbing Accountability: Algorithmic Impact Assessment for the Public Interest.  Data & Society. Accessed 7/14/2022 at [Link](https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/)
+Emanuel Moss, Elizabeth Anne Watkins, Ranjit Singh, Madeleine Clare Elish, & Jacob Metcalf. 2021. Assemlbing Accountability: Algorithmic Impact Assessment for the Public Interest.  Data & Society. Accessed 7/14/2022 at [URL](https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/)
 
-Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. [adalovelaceinstitute](https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/)
+Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. [URL](https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/)
 
-Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 2022. [Microsoft-RAI-Impact-Assessment-Template](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
+Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 2022. [URL](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
 
-Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. [Microsoft-RAI-Impact-Assessment-Guide](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
+Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. [URL](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
 
-https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/
+Microsoft. Foundations of assessing harm. 2022.  [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/)
 
 </details>

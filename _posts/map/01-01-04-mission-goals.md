@@ -44,13 +44,13 @@ Socio-technical AI risks emerge from the interplay between technical development
 <details>
 <summary markdown="span">**References**</summary>    
 <br>
-Algorithm Watch. AI Ethics Guidelines Global Inventory. Retrieved from https://inventory.algorithmwatch.org/
+Algorithm Watch. AI Ethics Guidelines Global Inventory. [URL](https://inventory.algorithmwatch.org/)
 
-Emanuel Moss and Jacob Metcalf. 2020. Ethics Owners: A New Model of Organizational Responsibility in Data-Driven Technology Companies. Data & Society Research Institute. Retrieved from https://datasociety.net/pubs/Ethics-Owners.pdf
+Emanuel Moss and Jacob Metcalf. 2020. Ethics Owners: A New Model of Organizational Responsibility in Data-Driven Technology Companies. Data & Society Research Institute. [URL](https://datasociety.net/pubs/Ethics-Owners.pdf)
 
-Future of Life Institute. Asilomar AI Principles. Retrieved from https://futureoflife.org/2017/08/11/ai-principles/
+Future of Life Institute. Asilomar AI Principles. [URL](https://futureoflife.org/2017/08/11/ai-principles/)
 
-Leonard Haas, Sebastian Gießler, and Veronika Thiel. 2020. In the realm of paper tigers – exploring the failings of AI ethics guidelines. (April 28, 2020). Retrieved on July 6, 2022 from https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/
+Leonard Haas, Sebastian Gießler, and Veronika Thiel. 2020. In the realm of paper tigers – exploring the failings of AI ethics guidelines. (April 28, 2020). [URL](https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/)
 
 </details>
 

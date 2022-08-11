@@ -49,7 +49,7 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). Retrieved from [op.europa.eu](https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en)
+Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). [URL](https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en)
 
-Artificial Intelligence Incident Database. 2022. Retrieved from [Incidentdatabase](https://incidentdatabase.ai/?lang=en)
+Artificial Intelligence Incident Database. 2022. [URL](https://incidentdatabase.ai/?lang=en)
 </details>

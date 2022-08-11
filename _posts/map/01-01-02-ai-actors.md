@@ -38,8 +38,8 @@ Column H content goes here.
 <details>
 <summary markdown="span">**References**</summary>      
 <br>
-Sina Fazelpour and Maria De-Arteaga. 2022. Diversity in sociotechnical machine learning systems. Big Data & Society 9, 1 (Jan. 2022). DOI: https://doi.org/10.1177%2F20539517221082027
+Sina Fazelpour and Maria De-Arteaga. 2022. Diversity in sociotechnical machine learning systems. Big Data & Society 9, 1 (Jan. 2022). [URL](https://doi.org/10.1177%2F20539517221082027)
 
-Microsoft Community Jury , Azure Application Architecture Guide, https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/
+Microsoft Community Jury , Azure Application Architecture Guide. [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/)
 
 </details>

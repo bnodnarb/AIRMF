@@ -50,9 +50,9 @@ AI actors should define the technical learning or decision-making task an AI sys
 <details>
 <summary markdown="span">**References**</summary>    
 <br>
-Leong, Brenda (2020). The Spectrum of Artificial Intelligence - An Infographic Tool. Future of Privacy Forum. Retrieved from https://fpf.org/blog/the-spectrum-of-artificial-intelligence-an-infographic-tool/
+Leong, Brenda (2020). The Spectrum of Artificial Intelligence - An Infographic Tool. Future of Privacy Forum. [URL](https://fpf.org/blog/the-spectrum-of-artificial-intelligence-an-infographic-tool/)
 
-Brownlee, Jason (2020). A Tour of Machine Learning Algorithms. Machine Learning Mastery. Retrieved from https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/.
+Brownlee, Jason (2020). A Tour of Machine Learning Algorithms. Machine Learning Mastery. [URL](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 </details>
 

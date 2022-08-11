@@ -47,8 +47,8 @@ AI systems should present a business benefit beyond the status quo when consider
 <details>
 <summary markdown="span">**References**</summary>      
 <br>
-Abeba Birhane, Pratyusha Kalluri, Dallas Card, et al. 2022. The Values Encoded in Machine Learning Research. arXiv:2106.15590. Retrieved from https://arxiv.org/abs/2106.15590
+Abeba Birhane, Pratyusha Kalluri, Dallas Card, et al. 2022. The Values Encoded in Machine Learning Research. arXiv:2106.15590. [URL](https://arxiv.org/abs/2106.15590)
 
-Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
+Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). [URL](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
 
 </details>
