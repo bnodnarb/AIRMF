@@ -36,8 +36,8 @@ Column G goes here.
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. URL: https://nvlpubs. nist. gov/nistpubs/CSWP/NIST. CSWP, 4162018.
+National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. [URL](https://nvlpubs.nist.gov/nistpubs/cswp/nist.cswp.04162018.pdf)
 
-National Institute of Standards and Technology. (2012). Computer Security Incident Handling Guide. NIST Special Publication 800-61 Revision 2. URL: https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+National Institute of Standards and Technology. (2012). Computer Security Incident Handling Guide. NIST Special Publication 800-61 Revision 2. [URL](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
 </details>

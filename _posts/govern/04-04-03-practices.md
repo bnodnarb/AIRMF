@@ -44,10 +44,10 @@ Column G goes here.
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-S. McGregor, “Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database,” arXiv:2011.08512 [cs], Nov. 2020, arXiv:2011.08512. [Online]. Available: http://arxiv.org/abs/2011.08512
+S. McGregor, “Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database,” arXiv:2011.08512 [cs], Nov. 2020, arXiv:2011.08512. [URL](http://arxiv.org/abs/2011.08512)
 
-C. Johnson, M. Badger, D. Waltermire, J. Snyder, and C. Skorupka, “Guide to cyber threat information sharing,” National Institute of Standards and Technology, NIST Special Publication 800-150, Nov 2016. [Online]. Available: https://doi.org/10.6028/NIST.SP.800-150
+C. Johnson, M. Badger, D. Waltermire, J. Snyder, and C. Skorupka, “Guide to cyber threat information sharing,” National Institute of Standards and Technology, NIST Special Publication 800-150, Nov 2016. [URL](https://doi.org/10.6028/NIST.SP.800-150)
 
-BSA The Software Alliance (2021) Confronting Bias: BSA’s Framework to Build Trust in AI. https://www.bsa.org/reports/confronting-bias-bsas-framework-to-build-trust-in-ai
+BSA The Software Alliance (2021) Confronting Bias: BSA’s Framework to Build Trust in AI. [URL](https://www.bsa.org/reports/confronting-bias-bsas-framework-to-build-trust-in-ai)
 
 </details>

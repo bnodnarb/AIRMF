@@ -38,22 +38,22 @@ Column G goes here.
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-H.R. 2231, 116th Cong. (2019), https://www.congress.gov/bill/116th-congress/house-bill/2231/text
+H.R. 2231, 116th Cong. (2019). [URL](https://www.congress.gov/bill/116th-congress/house-bill/2231/text)
 
-BSA The Software Alliance (2021) Confronting Bias: BSA’s Framework to Build Trust in AI. https://www.bsa.org/reports/confronting-bias-bsas-framework-to-build-trust-in-ai
+BSA The Software Alliance (2021) Confronting Bias: BSA’s Framework to Build Trust in AI. [URL](https://www.bsa.org/reports/confronting-bias-bsas-framework-to-build-trust-in-ai)
 
-David Wright, “Making Privacy Impact Assessments More Effective." The Information Society 29, 2013, available at https://iapp.org/media/pdf/knowledge_center/Making_PIA__more_effective.pdf.
+David Wright, “Making Privacy Impact Assessments More Effective." The Information Society 29, 2013. [URL](https://iapp.org/media/pdf/knowledge_center/Making_PIA__more_effective.pdf)
 
-E. Moss, E. Watkins, R. Singh, M. Elish, and J. Metcalf, “Assembling Accountability: Algorithmic Impact Assessment for the Public Interest.” [Online]. Available: https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/
+E. Moss, E. Watkins, R. Singh, M. Elish, and J. Metcalf, “Assembling Accountability: Algorithmic Impact Assessment for the Public Interest”. [URL](https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/)
 
-M. Kop, “AI Impact Assessment & Code of Conduct,” Futurium, May 2019, https://futurium.ec.europa.eu/en/european-ai-alliance/best-practices/ai-impact-assessment-code-conduct.
+M. Kop, “AI Impact Assessment & Code of Conduct,” Futurium, May 2019. [URL](https://futurium.ec.europa.eu/en/european-ai-alliance/best-practices/ai-impact-assessment-code-conduct)
 
-D. Reisman, J. Schultz, K. Crawford, and M. Whittaker, “Algorithmic Impact Assessments: A Practical Framework For Public Agency Accountability,” AI Now, Apr. 2018, https://ainowinstitute.org/aiareport2018.pdf.
+D. Reisman, J. Schultz, K. Crawford, and M. Whittaker, “Algorithmic Impact Assessments: A Practical Framework For Public Agency Accountability,” AI Now, Apr. 2018. [URL](https://ainowinstitute.org/aiareport2018.pdf)
 
 A. D. Selbst, “An Institutional View Of Algorithmic Impact Assessments,” Harvard Journal of Law & Technology, vol. 35, no. 1, 2021
 
-Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/
+Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. [URL](https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/)
 
-Kathy Baxter, AI Ethics Maturity Model, Salesforce https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf
+Kathy Baxter, AI Ethics Maturity Model, Salesforce [URL](https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf)
 
 </details>

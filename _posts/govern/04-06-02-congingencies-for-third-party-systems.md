@@ -36,8 +36,8 @@ Column G goes here.
 <br>
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 
-“Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021, available at https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf
+“Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021. [URL](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf)
 
-Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021), https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html
+Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021). [URL](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
 
 </details>

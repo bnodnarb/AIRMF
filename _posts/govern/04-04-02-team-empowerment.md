@@ -39,15 +39,14 @@ Column G goes here.
 <br>
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 
-Patrick Hall, Navdeep Gill, and Benjamin Cox, “Responsible Machine Learning,” O’Reilly Media, 2020, available at https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/
+Patrick Hall, Navdeep Gill, and Benjamin Cox, “Responsible Machine Learning,” O’Reilly Media, 2020. [URL](https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
 
-Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for Deposit-Taking
-Institutions, E-23 (Sept. 2017).
+Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for Deposit-Taking Institutions, E-23 (Sept. 2017).
 
-GAO, “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities,” GAO@100 (GAO-21-519SP), June 2021, https://www.gao.gov/assets/gao-21-519sp.pdf.
+GAO, “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities,” GAO@100 (GAO-21-519SP), June 2021. [URL](https://www.gao.gov/assets/gao-21-519sp.pdf)
 
-Donald Sull, Stefano Turconi, and Charles Sull, “When It Comes to Culture, Does Your Company Walk the Talk?” MIT Sloan Mgmt. Rev., 2020, https://sloanreview.mit.edu/article/when-it-comes-to-culture-does-your-company-walk-the-talk.
+Donald Sull, Stefano Turconi, and Charles Sull, “When It Comes to Culture, Does Your Company Walk the Talk?” MIT Sloan Mgmt. Rev., 2020. [URL](https://sloanreview.mit.edu/article/when-it-comes-to-culture-does-your-company-walk-the-talk)
 
-Kathy Baxter, AI Ethics Maturity Model, Salesforce https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf
+Kathy Baxter, AI Ethics Maturity Model, Salesforce. [URL](https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf)
 
 </details>

@@ -46,14 +46,14 @@ Column G goes here.
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-ISO, “Ergonomics of human-system interaction — Part 210: Human-centered design for interactive systems,” ISO 9241-210:2019 (2nd ed.), July 2019, https://www.iso.org/standard/77520.html.
+ISO, “Ergonomics of human-system interaction — Part 210: Human-centered design for interactive systems,” ISO 9241-210:2019 (2nd ed.), July 2019. [URL](https://www.iso.org/standard/77520.html)
 
-Rumman Chowdhury and Jutta Williams, "Introducing Twitter’s first algorithmic bias bounty challenge," https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.
+Rumman Chowdhury and Jutta Williams, "Introducing Twitter’s first algorithmic bias bounty challenge," [URL](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge)
 
-Leonard Haas and Sebastian Gießler, “In the realm of paper tigers – exploring the failings of AI ethics guidelines,” AlgorithmWatch, 2020, available at https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/.
+Leonard Haas and Sebastian Gießler, “In the realm of paper tigers – exploring the failings of AI ethics guidelines,” AlgorithmWatch, 2020. [URL](https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/)
 
-Josh Kenway, Camille Francois, Dr. Sasha Costanza-Chock, Inioluwa Deborah Raji, & Dr. Joy Buolamwini. 2022. Bug Bounties for Algorithmic Harms? Algorithmic Justice League. Accessed July 14, 2022. https://www.ajl.org/bugs
+Josh Kenway, Camille Francois, Dr. Sasha Costanza-Chock, Inioluwa Deborah Raji, & Dr. Joy Buolamwini. 2022. Bug Bounties for Algorithmic Harms? Algorithmic Justice League. Accessed July 14, 2022. [URL](https://www.ajl.org/bugs)
 
-Microsoft Community Jury , Azure Application Architecture Guide, https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/
+Microsoft Community Jury , Azure Application Architecture Guide. [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/)
 
 </details>

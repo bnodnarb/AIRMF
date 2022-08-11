@@ -43,17 +43,17 @@ Column G goes here.
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Dylan Walsh, “How can human-centered AI fight bias in machines and people?” MIT Sloan Mgmt. Rev., 2021, available at https://mitsloan.mit.edu/ideas-made-to-matter/howcan-human-centered-ai-fight-bias-machine.
+Dylan Walsh, “How can human-centered AI fight bias in machines and people?” MIT Sloan Mgmt. Rev., 2021. [URL](https://mitsloan.mit.edu/ideas-made-to-matter/how-can-human-centered-ai-fight-bias-machines-and-people)
 
-Michael Li, “To Build Less-Biased AI, Hire a More Diverse Team,” Harvard Bus. Rev., 2020, available at https://hbr.org/2020/10/to-build-less-biased-ai-hire-a-more-diverse-team.
+Michael Li, “To Build Less-Biased AI, Hire a More Diverse Team,” Harvard Bus. Rev., 2020. [URL](https://hbr.org/2020/10/to-build-less-biased-ai-hire-a-more-diverse-team)
 
-Bo Cowgill et al., “Biased Programmers? Or Biased Data? A Field Experiment in Operationalizing AI Ethics,” 2020, available at https://arxiv.org/pdf/2012.02394.pdf.
+Bo Cowgill et al., “Biased Programmers? Or Biased Data? A Field Experiment in Operationalizing AI Ethics,” 2020. [URL](https://arxiv.org/pdf/2012.02394.pdf)
 
 N. Ellemers and F. Rink, “Diversity in work groups,” Current opinion in psychology, vol. 11, pp. 49–53, 2016.
 
 K. Talke, S. Salomo, and A. Kock, “Top management team diversity and strategic innovation orientation: The relationship and consequences for innovativeness and performance,” Journal of Product Innovation Management, vol. 28, pp. 819–832, 2011.
 
-S. M. West, M. Whittaker, and K. Crawford, “Discriminating Systems: Gender, Race, and Power in AI,” AI Now Institute, Tech. Rep., 2019. [Online]. Available: https://ainowinstitute.org/discriminatingsystems.pdf
+S. M. West, M. Whittaker, and K. Crawford, “Discriminating Systems: Gender, Race, and Power in AI,” AI Now Institute, Tech. Rep., 2019. [URL](https://ainowinstitute.org/discriminatingsystems.pdf)
 
 S. Fazelpour, M. De-Arteaga, Diversity in sociotechnical machine learning systems. Big Data & Society. January 2022. doi:10.1177/20539517221082027
 
