@@ -12,10 +12,6 @@ order_number: 1
 
 **MAP Example**
 
-List Test:
-* List1 - SOR
-* List2 - SOR
-
 <details>
 <summary markdown="span">**About**</summary>      
 <br>
