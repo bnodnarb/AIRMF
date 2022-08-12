@@ -12,6 +12,10 @@ order_number: 1
 
 **MAP Example**
 
+test list:
+ * list1
+ * list2
+
 <details>
 <summary markdown="span">**About**</summary>      
 <br>
