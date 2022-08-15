@@ -40,7 +40,6 @@ For example, open-ended chatbot systems that interact with the public on the int
 - How might you respond to an intelligence consumer asking “How do you know this?”
 
 **AI Transparency Resources: MAP 3.3**
-- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
 

@@ -32,9 +32,9 @@ AI system benefits should counterbalance the inherent risks and implicit and exp
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Transparency Considerations – Key Questions: MAP 3.1**
-- Did you communicate the benefits of the AI system to users?
-- Did you provide appropriate training material and disclaimers to users on how to adequately use the AI system?
-- Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
+- Have the benefits of the AI system been communicated to users?
+- Have the appropriate training material and disclaimers about how to adequately use the AI system been provided to users?
+- Has your organization implemented a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
 
 **AI Transparency Resources: MAP 3.1**
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
