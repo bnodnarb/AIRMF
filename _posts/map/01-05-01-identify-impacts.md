@@ -71,4 +71,6 @@ Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022.
 
 Microsoft. Foundations of assessing harm. 2022.  [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/)
 
+Microsoft Responsible AI Standard, v2. [URL](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmVhttps://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV)
+
 </details>

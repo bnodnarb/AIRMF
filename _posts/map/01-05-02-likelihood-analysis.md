@@ -52,4 +52,6 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). [URL](https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en)
 
 Artificial Intelligence Incident Database. 2022. [URL](https://incidentdatabase.ai/?lang=en)
+
+Anthony M. Barrett, Dan Hendrycks, Jessica Newman and Brandie Nonnecke. “Actionable Guidance for High-Consequence AI Risk Management: Towards Standards Addressing AI Catastrophic Risks". ArXiv abs/2206.08966 (2022) [URL](https://arxiv.org/abs/2206.08966)
 </details>

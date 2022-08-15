@@ -34,13 +34,11 @@ AI systems should present a business benefit beyond the status quo when consider
 **Transparency Considerations – Key Questions: MAP 1.3**
 - How does the AI system help the entity meet its goals and objectives?
 - How do the technical specifications and requirements align with the AI system’s goals and objectives?
-- To what extent is the output of each component appropriate for the operational context?
--  What (other) tasks could the dataset be used for? Are there obvious tasks for which it should not be used?
+- To what extent is the output appropriate for the operational context?
 
 **AI Transparency Resources: MAP 1.3**
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
-- Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021
-- Datasheets for Datasets"
+- Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities, 2021
 
 </details>
 
