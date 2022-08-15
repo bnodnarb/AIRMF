@@ -32,12 +32,12 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 5.2**
+**Organizations can document the following:**
 - Which population(s) does the AI system impact?
 - What assessments has the entity conducted on data security and privacy impacts associated with the AI system?
 - Did you ensure that the AI system can be audited by independent third parties?
 
-**AI Transparency Resources: MAP 5.2**
+**AI Transparency Resources:**
 - Datasheets for Datasets
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019

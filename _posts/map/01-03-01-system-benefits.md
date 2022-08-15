@@ -3,7 +3,7 @@ date: 01-03-01
 title: MAP 3.1
 categories:
   - MAP-3
-description: Benefits of intended system behavior are examined and documented.
+description: Benefits of intended system functionality and performance are examined and documented.
 type: Map
 order_number: 1
 ---
@@ -31,12 +31,12 @@ AI system benefits should counterbalance the inherent risks and implicit and exp
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 3.1**
+**Organizations can document the following:**
 - Did you communicate the benefits of the AI system to users?
 - Did you provide appropriate training material and disclaimers to users on how to adequately use the AI system?
 - Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
 
-**AI Transparency Resources: MAP 3.1**
+**AI Transparency Resources:**
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019

@@ -31,14 +31,14 @@ AI system development requirements may outpace documentation processes for tradi
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 1.7**
+**Organizations can document the following:**
 - What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
 - To what extent is this information sufficient and appropriate to promote transparency? Promote transparency by enabling external stakeholders to access information on the design, operation, and limitations of the AI system.
 - To what extent has relevant information been disclosed regarding the use of AI systems, such as (a) what the system is for, (b) what it is not for, (c) how it was designed, and (d) what its limitations are? (Documentation and external communication can offer a way for entities to provide transparency.)
 - What metrics has the entity developed to measure performance of the AI system?
 - What justifications, if any, has the entity provided for the assumptions, boundaries, and limitations of the AI system?
 
-**AI Transparency Resources: MAP 1.7**
+**AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - “Stakeholders in Explainable AI,” Sep. 2018, [Online]. Available: http://arxiv.org/abs/1810.00184
 - “Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021

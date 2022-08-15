@@ -28,12 +28,12 @@ Socio-technical AI risks emerge from the interplay between technical development
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 1.4**
+**Organizations can document the following:**
 - What goals and objectives does the entity expect to achieve by designing, developing, and/or deploying the AI system?
 - To what extent are the model outputs consistent with the entity’s values and principles to foster public trust and equity?
 - To what extent are the metrics consistent with system goals, objectives, and constraints, including ethical and compliance considerations?
 
-**AI Transparency Resources: MAP 1.4**
+**AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - WEF Model AI Governance Framework Assessment 2020

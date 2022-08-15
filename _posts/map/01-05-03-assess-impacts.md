@@ -34,12 +34,12 @@ The decision to deploy should not be made by AI actors carrying out design and d
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 5.3**
+**Organizations can document the following:**
 - To what extent do these policies foster public trust and confidence in the use of the AI system?
 - What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
 - How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes?
 
-**AI Transparency Resources: MAP 5.3**
+**AI Transparency Resources:**
 - Datasheets for Datasets
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019

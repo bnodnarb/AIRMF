@@ -34,12 +34,12 @@ The Map function provides an opportunity for organizations to assess potential A
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 5.1**
+**Organizations can document the following:**
 - If it relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated?
 - If it relates to other ethically protected subjects, have appropriate obligations been met? (e.g., medical data might include information collected from animals)
 - If it relates to people, could this dataset expose people to harm or legal action? (e.g., financial social or otherwise) What was done to mitigate or reduce the potential for harm?
 
-**AI Transparency Resources: MAP 5.1**
+**AI Transparency Resources:**
 - Datasheets for Datasets
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019

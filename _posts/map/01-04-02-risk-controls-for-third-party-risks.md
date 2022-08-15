@@ -29,12 +29,12 @@ In the course of their work, AI actors often utilize open-source, or otherwise f
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 4.2**
+**Organizations can document the following:**
 - Did you ensure that the AI system can be audited by independent third parties?
 - To what extent do these policies foster public trust and confidence in the use of the AI system?
 - Did you establish mechanisms that facilitate the AI system’s auditability (e.g. traceability of the development process, the sourcing of training data and the logging of the AI system’s processes, outcomes, positive and negative impact)?
 
-**AI Transparency Resources: MAP 4.2**
+**AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - WEF Model AI Governance Framework Assessment 2020
