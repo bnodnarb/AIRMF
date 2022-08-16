@@ -22,7 +22,7 @@ AI actors should define the technical learning or decision-making task an AI sys
 <details>
 <summary markdown="span">**Actions**</summary>
 
-* Narrowly define and document AI system existing and potential learning task(s) along with known assumptions and limitations.
+* Define and document AI system existing and potential learning task(s) along with known assumptions and limitations.
 
 </details>
 
