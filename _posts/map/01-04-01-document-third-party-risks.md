@@ -36,7 +36,7 @@ For example, the use of commercial large language models, which tend to rely on 
 **Organizations can document the following:**
 - Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
 - If your organization obtained datasets from a third party, did your organization assess and manage the risks of using such datasets?
-- How will the results independently verified?
+- How will the results be independently verified?
 
 **AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities

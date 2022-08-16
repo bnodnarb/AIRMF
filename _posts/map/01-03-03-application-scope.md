@@ -37,7 +37,6 @@ For example, open-ended chatbot systems that interact with the public on the int
 **Organizations can document the following:**
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
 - How do the technical specifications and requirements align with the AI system’s goals and objectives?
-- How might you respond to an intelligence consumer asking “How do you know this?”
 
 **AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities

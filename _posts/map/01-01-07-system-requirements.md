@@ -41,9 +41,9 @@ AI system development requirements may outpace documentation processes for tradi
 
 **AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- “Stakeholders in Explainable AI,” Sep. 2018, [Online]. Available: http://arxiv.org/abs/1810.00184
+- “Stakeholders in Explainable AI,” Sep. 2018, [Online]( http://arxiv.org/abs/1810.00184)
 - “Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021
-- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [Online]. Available: https://ec.europa.eu/digital-
+- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [Online](https://ec.europa.eu/digital-)
 
 </details>
 

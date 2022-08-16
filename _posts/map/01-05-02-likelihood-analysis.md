@@ -35,7 +35,7 @@ Likelihood estimates may then be assessed and judged for go/no-go decisions abou
 **Organizations can document the following:**
 - Which population(s) does the AI system impact?
 - What assessments has the entity conducted on data security and privacy impacts associated with the AI system?
-- Did you ensure that the AI system can be audited by independent third parties?
+- Can the AI system be audited by independent third parties?
 
 **AI Transparency Resources:**
 - Datasheets for Datasets

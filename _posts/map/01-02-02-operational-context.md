@@ -34,9 +34,9 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 **Organizations can document the following:**
 - Does the AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 - To what extent is the output of each component appropriate for the operational context?
-- What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals     impacted by use of the AI system?
+- What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
 - Based on the assessment, did your organization implement the appropriate level of human involvement in AI-augmented decision-making? (WEF Assessment)
-- How will the accountable human(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI or unrelated changes in operational/business environment, which may impact the accuracy of the AI?
+- How will the accountable AI actor(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI system or unrelated changes in operational/business environment, which may impact the accuracy of the AI system?
 
 **AI Transparency Resources:**
 - Datasheets for Datasets
