@@ -3,7 +3,7 @@ date: 04-05-01
 title: GOVERN 5.1
 categories:
   - GOVERN-5
-description: Organizational policies and practices are in place to prioritize the consideration and adjudication of external stakeholder feedback regarding the potential individual and societal impacts related to AI risks.
+description: Organizational policies and practices are in place to collect, consider, prioritize, and integrate external stakeholder feedback regarding the potential individual and societal impacts related to AI risks.
 type: Govern
 order_number: 1
 ---

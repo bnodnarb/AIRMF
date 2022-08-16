@@ -3,7 +3,7 @@ date: 04-02-02
 title: GOVERN 2.2
 categories:
   - GOVERN-2
-description: The organization’s personnel and partners are provided AI risk management awareness education and training to enable them to perform their duties and responsibilities consistent with related policies, procedures, and agreements.
+description: The organization’s personnel and partners are provided AI risk management training to enable them to perform their duties and responsibilities consistent with related policies, procedures, and agreements.
 type: Govern
 order_number: 2
 ---

@@ -3,7 +3,7 @@ date: 04-02-01
 title: GOVERN 2.1
 categories:
   - GOVERN-2 
-description: Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are clear to individuals and teams throughout the organization.
+description: Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are clear to individuals and teams throughout the organization, and documented.
 type: Govern
 order_number: 1
 ---

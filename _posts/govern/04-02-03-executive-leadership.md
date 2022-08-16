@@ -3,7 +3,7 @@ date: 04-02-03
 title: GOVERN 2.3
 categories:
   - GOVERN-2
-description: Executive leadership of the organization considers decisions about AI system development and deployment ultimately to be their responsibility.
+description: Executive leadership of the organization considers decisions about risks associated with AI system development and deployment to be their responsibility. 
 type: Govern
 order_number: 3
 ---

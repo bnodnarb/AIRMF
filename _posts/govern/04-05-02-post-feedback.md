@@ -3,7 +3,7 @@ date: 04-05-02
 title: GOVERN 5.2
 categories:
   - GOVERN-5
-description: Processes are in place to equip and empower teams to make decisions about if and how to develop and deploy AI systems based on stakeholder considerations, and to define periodic reviews of impacts, including potential harm.
+description: Mechanisms are established to enable AI actors to regularly incorporate adjudicated stakeholder feedback into system design and implementation. 
 type: Govern
 order_number: 2
 ---

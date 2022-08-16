@@ -3,7 +3,7 @@ date: 04-04-01
 title: GOVERN 4.1
 categories:
   - GOVERN-4
-description: Organizational practices are in place to foster a critical thinking mindset in  the design, development, and deployment of AI systems to minimize negative impacts.
+description: Organizational practices are in place to foster a critical thinking and safety-first mindset in the design, development, and deployment of AI systems to minimize negative impacts.
 type: Govern
 order_number: 1
 ---
