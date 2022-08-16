@@ -3,7 +3,7 @@ date: 01-02-02
 title: MAP 2.2
 categories:
   - MAP-2
-description:  Information is documented about the operational context in which the AI system will be deployed (e.g., human-AI teaming, etc.) and how output will be utilized and overseen by humans.
+description: Information is documented about the system’s knowledge limits, and how output will be utilized and overseen by humans.
 type: Map
 order_number: 2
 ---
@@ -31,14 +31,14 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 2.2**
+**Organizations can document the following:**
 - Does the AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 - To what extent is the output of each component appropriate for the operational context?
 - What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals     impacted by use of the AI system?
 - Based on the assessment, did your organization implement the appropriate level of human involvement in AI-augmented decision-making? (WEF Assessment)
 - How will the accountable human(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI or unrelated changes in operational/business environment, which may impact the accuracy of the AI?
 
-**AI Transparency Resources: MAP 2.2**
+**AI Transparency Resources:**
 - Datasheets for Datasets
 - WEF Model AI Governance Framework Assessment 2020
 - Companion to the Model AI Governance Framework- 2020

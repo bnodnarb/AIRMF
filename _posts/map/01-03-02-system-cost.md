@@ -3,7 +3,7 @@ date: 01-03-02
 title: MAP 3.2
 categories:
   - MAP-3
-description: Cost (monetary or otherwise) of errors or unintended system behavior is examined and documented.
+description: Potential costs, including non-monetary costs, which result from expected or realized errors or system performance are examined and documented.
 type: Map
 order_number: 2
 ---
@@ -34,12 +34,12 @@ Anticipating negative impacts of AI systems is a difficult task. Negative impact
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 3.2**
+**Organizations can document the following:**
 - To what extent does the system/entity consistently measure progress towards stated goals and objectives?
 - To what extent can users or parties affected by the outputs of the AI system test the AI system and provide feedback?
 - Have you documented and explained that machine errors may differ from human errors?
 
-**AI Transparency Resources: MAP 3.2**
+**AI Transparency Resources:**
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019

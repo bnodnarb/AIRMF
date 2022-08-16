@@ -3,7 +3,7 @@ date: 01-02-01
 title: MAP 2.1
 categories:
   - MAP-2
-description: The specific learning task that the AI system will support is defined (e.g., classifiers, generative models, recommenders).
+description: The specific task, and methods used to implement the task, that the AI system will support is defined (e.g., classifiers, generative models, recommenders, etc.). 
 type: Map
 order_number: 1
 ---
@@ -29,7 +29,7 @@ AI actors should define the technical learning or decision-making task an AI sys
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 2.1**
+**Organizations can document the following:**
 
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
 - To what extent has the entity documented the AI system’s development, testing methodology, metrics, and performance outcomes?
@@ -37,7 +37,7 @@ AI actors should define the technical learning or decision-making task an AI sys
 - Did your organization implement accountability-based practices in data management and protection (e.g. the PDPA and OECD Privacy Principles)?
 - How are outputs marked to clearly show that they came from an AI?
 
-**AI Transparency Resources: MAP 2.1**
+**AI Transparency Resources:**
 
 - Datasheets for Datasets
 - WEF Model AI Governance Framework Assessment 2020

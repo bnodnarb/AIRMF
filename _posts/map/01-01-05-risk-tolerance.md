@@ -3,7 +3,7 @@ date: 01-01-05
 title: MAP 1.5
 categories:
   - MAP-1
-description: Organizational risk tolerances are determined. 
+description: Impacts to individuals, groups, communities, organizations, or society are assessed.
 type: Map
 order_number: 5
 ---
@@ -36,12 +36,12 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 1.5**
+**Organizations can document the following:**
 - What justifications, if any, has the entity provided for the assumptions, boundaries, and limitations of the AI system?
 - How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes?
 - To what extent are the established procedures effective in mitigating bias, inequity, and other concerns resulting from the system?
 
-**AI Transparency Resources: MAP 1.5**
+**AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - WEF Model AI Governance Framework Assessment 2020
 - Companion to the WEF Model AI Governance Framework- 2020

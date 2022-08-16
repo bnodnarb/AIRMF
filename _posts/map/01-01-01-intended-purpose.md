@@ -3,7 +3,7 @@ date: 01-01-01
 title: MAP 1.1
 categories:
   - MAP-1
-description: Intended purpose, setting in which the AI system will be deployed, the specific set of users along with their expectations, and impacts of system use are understood and documented. Assumptions and related limitations about AI system purpose and use are enumerated. 
+description: Intended purpose, prospective settings in which the AI system will be deployed, the specific set or types of users along with their expectations, and impacts of system use are understood and documented. Assumptions and related limitations about AI system purpose and use are enumerated, documented and tied to TEVV considerations and system metrics.
 type: Map
 order_number: 1
 ---
@@ -48,14 +48,14 @@ Mapping context may include examination of the following:
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>         
                      
-**Transparency Considerations – Key Questions: MAP 1.1**
+**Organizations can document the following:**
 * Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
 * Who will be responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
 * Who is accountable for the ethical considerations during all stages of the AI lifecycle?
 * Why was the dataset created? (e.g., were there specific tasks in mind, or a specific gap that needed to be filled?
 * How does the entity ensure that the data collected are adequate, relevant, and not excessive in relation to the intended purpose?
 
-**AI Transparency Resources: MAP 1.1**
+**AI Transparency Resources:**
 * Datasheets for Datasets
 * GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 * “Stakeholders in Explainable AI,” Sep. 2018, [Online]. [link](http://arxiv.org/abs/1810.00184)

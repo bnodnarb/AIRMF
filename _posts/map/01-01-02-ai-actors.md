@@ -3,7 +3,7 @@ date: 01-01-02
 title: MAP 1.2
 categories:
   - MAP-1
-description: Inter-disciplinary AI actors, competencies, skills and capacities for establishing context reflect demographic diversity and broad domain expertise and their participation is documented. Opportunities for interdisciplinary collaboration are prioritized.
+description: Inter-disciplinary AI actors, competencies, skills and capacities for establishing context reflect demographic diversity and broad domain and user experience expertise, and their participation is documented. Opportunities for interdisciplinary collaboration are prioritized.
 type: Map
 order_number: 2
 ---

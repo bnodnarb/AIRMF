@@ -34,12 +34,12 @@ For example, open-ended chatbot systems that interact with the public on the int
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-**Transparency Considerations – Key Questions: MAP 3.3**
+**Organizations can document the following:**
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
 - How do the technical specifications and requirements align with the AI system’s goals and objectives?
 - How might you respond to an intelligence consumer asking “How do you know this?”
 
-**AI Transparency Resources: MAP 3.3**
+**AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
 
