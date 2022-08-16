@@ -3,7 +3,7 @@ date: 01-01-06
 title: MAP 1.6
 categories:
   - MAP-1
-description: Plans and documentation are in place to define stakeholders, engage with them continuously, and enable actionable user and community feedback about unanticipated negative impacts into design activities. 
+description: Practices and personnel for design activities enable regular engagement with stakeholders, and integrate actionable user and community feedback about unanticipated negative impacts
 type: Map
 order_number: 6
 ---

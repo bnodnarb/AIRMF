@@ -25,6 +25,7 @@ AI system development requirements may outpace documentation processes for tradi
 * Consider risk factors related to Human-AI configurations and tasks. 
 * Analyze dependencies between contextual factors and system requirements. List impacts that may arise from not fully considering the importance of  trustworthiness characteristics in any decision making.
 * Follow responsible design techniques in tasks such as software engineering, product management, and participatory engagement. Some examples for eliciting and documenting stakeholder requirements include product requirement documents (PRDs), user stories, user interaction/user experience (UI/UX) research, systems engineering, ethnography and related field methods. 
+* Conduct user research to understand individuals, groups and communities that will be impacted by the AI, their values & context, and the role of systemic and historical biases. Integrate learnings into decisions about data selection and representation.
 
 </details>
 

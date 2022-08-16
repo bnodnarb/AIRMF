@@ -24,7 +24,7 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 * Extend documentation beyond system and task requirements to include possible risks due to deployment contexts and human-AI configurations. 
 * Follow stakeholder feedback processes to determine whether a system achieved its documented purpose within a given use context, and whether users can correctly comprehend system outputs or results.
 * Document dependencies on upstream data and other AI systems, including if the specified system is an upstream dependency for another AI system or other data.
-* Document connections the AI system or data will have to external networks (including the internet), financial markets, and critical infrastructure that have potential for negative externalities. Identify and document negative impacts as part of considering the broader risk thresholds and subsequent go/no-go deployment decisions.
+* Document connections the AI system or data will have to external networks (including the internet), financial markets, and critical infrastructure that have potential for negative externalities. Identify and document negative impacts as part of considering the broader risk thresholds and subsequent go/no-go deployment as well as post-deployment decommissioning decisions.
 
 </details>
 

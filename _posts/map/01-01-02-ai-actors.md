@@ -24,7 +24,7 @@ Having a diverse team contributes to more open sharing of ideas and assumptions 
 
 * Establish interdisciplinary teams to reflect a wide range of skills, competencies, and capacity for AI efforts. Verify that team membership includes both demographic diversity, broad domain expertise, and lived experiences. Document team composition. 
 
-* Empower interdisciplinary teams to capture, learn, and engage the interdependencies of deployed AI systems and related terminologies and concepts from disciplines outside of AI practice such as law, sociology, psychology, anthropology, public policy, systems design, and engineering.
+* Create and empower interdisciplinary expert teams to capture, learn, and engage the interdependencies of deployed AI systems and related terminologies and concepts from disciplines outside of AI practice such as law, sociology, psychology, anthropology, public policy, systems design, and engineering.
 
 </details>
 

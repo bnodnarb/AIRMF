@@ -13,7 +13,7 @@ order_number: 3
 <details>
 <summary markdown="span">**About**</summary>      
 <br>
-AI systems should present a business benefit beyond the status quo when considering inherent risks and implicit or explicit costs. Defining and documenting the specific business purpose of an AI system helps teams to evaluate risks and increases the clarity of “go/no-go” decisions about whether to deploy.
+AI systems should present a business benefit beyond the status quo when considering inherent risks and implicit or explicit costs. Defining and documenting the specific business purpose of an AI system in a broader context of societal values helps teams to evaluate risks and increases the clarity of “go/no-go” decisions about whether to deploy.
 
 </details>
 
