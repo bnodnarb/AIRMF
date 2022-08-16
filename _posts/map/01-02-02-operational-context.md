@@ -56,7 +56,7 @@ International Standards Organization (ISO). 2019. ISO 9241-210:2019 Ergonomics o
 
 National Institute of Standards and Technology (NIST), Mary Theofanos, Yee-Yin Choong, et al. 2017. NIST Handbook 161 Usability Handbook for Public Safety Communications: Ensuring Successful Systems for First Responders. [URL](https://doi.org/10.6028/NIST.HB.161)
 
-**Human-machine interaction**
+**Human-AI interaction**
 
 Smith, C. J. (2019). Designing trustworthy AI: A human-machine teaming framework to guide development. arXiv preprint arXiv:1910.03515.
 
@@ -73,6 +73,8 @@ Forough Poursabzi-Sangdeh, Daniel G Goldstein, Jake M Hofman, et al. 2021. Manip
 Susanne Gaube, Harini Suresh, Martina Raue, et al. 2021. Do as AI say: susceptibility in deployment of clinical decision-aids. npj Digital Medicine 4, Article 31 (2021). [URL](https://doi.org/10.1038/s41746-021-00385-9)
 
 Zana Buçinca, Maja Barbara Malaya, and Krzysztof Z. Gajos. 2021. To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making. Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 188 (April 2021), 21 pages. [URL](https://doi.org/10.1145/3449287)
+
+Microsoft Responsible AI Standard, v2. [URL](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV)
 
 </details>
   
