@@ -34,8 +34,8 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Organizations can document the following:**
-- To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
-- Who is responsible for checking the AI at these intervals?
+- To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant AI actors?
+- Who is responsible for checking the AI system at these intervals?
 - What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
 - If anyone believed that the AI no longer meets this ethical framework, who will be responsible for receiving the concern and as appropriate investigating and remediating the issue? Do they have authority to modify, limit, or stop the use of the AI?
 - How easily accessible and current is the information available to external stakeholders?
