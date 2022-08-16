@@ -31,6 +31,8 @@ Collected data may differ significantly from what occurs in the real world. Larg
 * Establish practices to ensure data used in AI systems is linked to the documented purpose of the AI system (e.g., by causal discovery methods).
 * Establish and document processes to ensure that test and training data lineage is well understood, traceable, and metadata resources are available for mapping risks. 
 * Document known limitations, risk mitigation efforts associated with, and methods used for, training data collection, selection, labeling, cleaning, and analysis (e.g. treatment of missing, spurious, or outlier data; biased estimators).
+* Establish and document practices to check for capabilities that are in excess of those that are planned for, such as emergent properties, and to revisit prior risk management steps in light of any new capabilities.
+* Establish processes to test and ensure that design assumptions about the set of deployment contexts continue to be accurate and sufficiently complete.
 * Work with domain experts to:
     * Gain and maintain contextual awareness and knowledge about how human behavior is reflected in datasets, organizational factors and dynamics, and society.
     * Identify participatory approaches for responsible Human-AI configurations and oversight tasks, taking into account sources of cognitive bias. 
