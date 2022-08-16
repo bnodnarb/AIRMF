@@ -34,17 +34,17 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Organizations can document the following:**
-- To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant AI actors?
-- Who is responsible for checking the AI system at these intervals?
 - What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
-- If anyone believed that the AI no longer meets this ethical framework, who will be responsible for receiving the concern and as appropriate investigating and remediating the issue? Do they have authority to modify, limit, or stop the use of the AI?
-- How easily accessible and current is the information available to external stakeholders?
+- To what extent is this information sufficient and appropriate to promote transparency? Promote transparency by enabling external stakeholders to access information on the design, operation, and limitations of the AI system.
+- To what extent has relevant information been disclosed regarding the use of AI systems, such as (a) what the system is for, (b) what it is not for, (c) how it was designed, and (d) what its limitations are? (Documentation and external communication can offer a way for entities to provide transparency.)
+- What metrics has the entity developed to measure performance of the AI system?
+- What justifications, if any, has the entity provided for the assumptions, boundaries, and limitations of the AI system?
 
 **AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - “Stakeholders in Explainable AI,” Sep. 2018, [Online](http://arxiv.org/abs/1810.00184).
 - “Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021
-- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [Online](https://ec.europa.eu/digital-)
+- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [Online](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), [PDF](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf)
 
 </details>
 
