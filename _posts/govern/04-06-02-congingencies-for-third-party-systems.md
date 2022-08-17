@@ -34,8 +34,7 @@ To mitigate the potential harms of third-party system failure, organizations sho
 
 **AI Transparency Resources:**
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- WEF Model AI Governance Framework Assessment 2020
-    - Companion to the Model AI Governance Framework- 2020
+- [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
 
 </details>

@@ -50,8 +50,7 @@ Facilitating a culture where AI system design and implementation decisions can b
 - Did your organization implement accountability-based practices in data management and protection (e.g. the PDPA and OECD Privacy Principles)?
 
 **AI Transparency Resources: Govern**
-- WEF Model AI Governance Framework Assessment 2020
-    - Companion to the Model AI Governance Framework- 2020
+- [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
 
 </details>

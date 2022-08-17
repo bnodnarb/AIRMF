@@ -55,7 +55,7 @@ Processes:
 
 **AI Transparency Resources:**
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
+- [Intel.gov: AI Ethics Framework for Intelligence Community  - 2020](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
 
 </details>
 

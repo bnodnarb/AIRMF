@@ -42,6 +42,14 @@ Organizational approaches to managing third-party risk should be tailored to the
 - Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
 - To what extent does the plan specifically address risks associated with acquisition, procurement of packaged software from vendors, cybersecurity controls, computational infrastructure, data, data science, deployment mechanics, and system failure?
 
+**AI Transparency Resources:**
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities]()
+- [Intel.gov: AI Ethics Framework for Intelligence Community  - 2020](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+- [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019
+
+
 </details>
 
 <details>

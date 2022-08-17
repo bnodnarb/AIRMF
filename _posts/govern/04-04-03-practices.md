@@ -43,8 +43,7 @@ Information sharing about impacts or incidents detected during testing or deploy
 - To what extent can users or parties affected by the outputs of the AI system test the AI system and provide feedback?
 
 **AI Transparency Resources:**
-- WEF Model AI Governance Framework Assessment 2020
-    - Companion to the Model AI Governance Framework- 2020
+- [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 
 </details>
 

@@ -50,7 +50,7 @@ Process and standards modeling:
 
 **AI Transparency Resources:**
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- WEF Model AI Governance Framework Assessment 2020.
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 
 </details>
 

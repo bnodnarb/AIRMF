@@ -43,8 +43,7 @@ Risk tolerance, established by organizational leadership, reflects the level and
 - Does the AI solution provide sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 
 **AI Transparency Resources:**
-- WEF Model AI Governance Framework Assessment 2020
-    - Companion to the Model AI Governance Framework- 2020
+- [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 - “Stakeholders in Explainable AI,” Sep. 2018, [Online](http://arxiv.org/abs/1810.00184).
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
 

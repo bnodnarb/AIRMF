@@ -41,7 +41,7 @@ Red-teaming is another risk management approach. This practice consists of adver
 **AI Transparency Resources:**
 - [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- WEF Model AI Governance Framework Assessment 2020
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 
 
 </details>
