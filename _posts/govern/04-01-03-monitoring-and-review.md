@@ -1,11 +1,11 @@
 ---
 date: 04-01-02
-title: GOVERN 1.2
+title: GOVERN 1.3
 categories:
   - GOVERN-1
 description: The risk management process and its outcomes are established through transparent mechanisms and all significant risks are measured.
 type: Govern
-order_number: 2
+order_number: 3
 ---
 {::options parse_block_html="true" /}
 

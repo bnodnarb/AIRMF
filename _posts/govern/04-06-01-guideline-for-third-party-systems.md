@@ -3,7 +3,7 @@ date: 04-06-01
 title: GOVERN 6.1
 categories:
   - GOVERN-6
-description: Policies and procedures are in place that address risks associated with third-party entities.
+description: Policies and procedures are in place that address risks associated with third-party entities. 
 type: Govern
 order_number: 1
 ---

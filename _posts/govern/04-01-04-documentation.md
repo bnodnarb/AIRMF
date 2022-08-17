@@ -1,11 +1,11 @@
 ---
 date: 04-01-03
-title: GOVERN 1.3
+title: GOVERN 1.4
 categories:
   - GOVERN-1
 description: Ongoing monitoring and periodic review of the risk management process and its outcomes are planned, with organizational roles and responsibilities clearly defined.
 type: Govern
-order_number: 3
+order_number: 4
 ---
 {::options parse_block_html="true" /}
 

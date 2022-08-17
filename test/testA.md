@@ -3,19 +3,24 @@ date: 01-01-01
 title: MAP 1.1
 categories:
   - MAP-1
-description: Intended purpose, prospective settings in which the AI system will be deployed, the specific set or types of users along with their expectations, and impacts of system use are understood and documented. Assumptions and related limitations about AI system purpose and use are enumerated, documented and tied to TEVV considerations and system metrics.
+description: Intended purpose, setting in which the AI system will be deployed, the specific set of users along with their expectations, and impacts of system use are understood and documented. Assumptions and related limitations about AI system purpose and use are enumerated. 
 type: Map
 order_number: 1
 ---
 {::options parse_block_html="true" /} 
 
 
+**MAP Example**
+Testing the Edits
+* List One
+* List Two
+
 <details>
 <summary markdown="span">**About**</summary>      
 <br>
-It is not necessarily possible to have advanced knowledge about all potential settings in which a system will be deployed. To help delineate the bounds of acceptable deployment, context mapping may include examination of the following:
-* intended, prospective,and actual deployment setting.
-* specific set or types of users. 
+Mapping context may include examination of the following:
+* intended and actual deployment setting.
+* specific set of users. 
 * operator or subject expectations. 
 * concept of operations. 
 * intended purpose and impact of system use. 
@@ -33,7 +38,7 @@ It is not necessarily possible to have advanced knowledge about all potential se
 * Maintain awareness of industry, technical, and applicable legal standards.
 * Collaboratively consider intended AI system design tasks along with unanticipated purposes.
 * Determine the user and organizational requirements, including business and technical requirements.
-* Determine and delineate the expected and acceptable AI system context of use, including:
+* Define the AI system context of use, including:
     * operational environment
     * impacts to individuals, groups, communities, organizations, and society
     * user characteristics and tasks
@@ -48,15 +53,17 @@ It is not necessarily possible to have advanced knowledge about all potential se
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>         
                      
-**Organizations can document the following:**
-* Which AI actors are responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
-* Which AI actors are responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
-* Who is the person(s) accountable for the ethical considerations across the AI lifecycle?
+**Transparency Considerations – Key Questions: MAP 1.1**
+* Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
+* Who will be responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
+* Who is accountable for the ethical considerations during all stages of the AI lifecycle?
+* Why was the dataset created? (e.g., were there specific tasks in mind, or a specific gap that needed to be filled?
+* How does the entity ensure that the data collected are adequate, relevant, and not excessive in relation to the intended purpose?
 
-**AI Transparency Resources:**
+**AI Transparency Resources: MAP 1.1**
+* Datasheets for Datasets
 * GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 * “Stakeholders in Explainable AI,” Sep. 2018, [Online]. [link](http://arxiv.org/abs/1810.00184)
-* "Microsoft Responsible AI Standard, v2" [link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV)
 
 </details>
 

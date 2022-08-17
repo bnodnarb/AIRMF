@@ -25,6 +25,7 @@ AI system development requirements may outpace documentation processes for tradi
 * Consider risk factors related to Human-AI configurations and tasks. 
 * Analyze dependencies between contextual factors and system requirements. List impacts that may arise from not fully considering the importance of  trustworthiness characteristics in any decision making.
 * Follow responsible design techniques in tasks such as software engineering, product management, and participatory engagement. Some examples for eliciting and documenting stakeholder requirements include product requirement documents (PRDs), user stories, user interaction/user experience (UI/UX) research, systems engineering, ethnography and related field methods. 
+* Conduct user research to understand individuals, groups and communities that will be impacted by the AI, their values & context, and the role of systemic and historical biases. Integrate learnings into decisions about data selection and representation.
 
 </details>
 
@@ -40,9 +41,9 @@ AI system development requirements may outpace documentation processes for tradi
 
 **AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- “Stakeholders in Explainable AI,” Sep. 2018, [Online]. Available: http://arxiv.org/abs/1810.00184
+- “Stakeholders in Explainable AI,” Sep. 2018, [Online]( http://arxiv.org/abs/1810.00184)
 - “Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021
-- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [Online]. Available: https://ec.europa.eu/digital-
+- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI”, Ethics guidelines for trustworthy AI. [Online](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), [PDF](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf)
 
 </details>
 

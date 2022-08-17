@@ -28,7 +28,7 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 <summary markdown="span">**Actions**</summary>
 
 * Establish risk tolerance levels for AI systems and allocate the appropriate oversight resources to each level.
-* Identify maximum allowable risk thresholds above which the system will not be deployed, within the contextual or application setting. 
+* Identify maximum allowable risk thresholds above which the system will not be deployed, or will need to be prematurely decommissioned, within the contextual or application setting. 
 * Attempts to use a system for “off-label” purposes should be approached with caution, especially in settings that organizations have deemed as high-risk. Document decisions, risk-related trade-offs, and system limitations.
 
 </details>

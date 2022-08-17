@@ -1,11 +1,11 @@
 ---
 date: 04-01-01
-title: GOVERN 1.1
+title: GOVERN 1.2
 categories:
   - GOVERN-1
-description: Trustworthy characteristics are integrated into organizational policies, processes, and procedures.
+description: The characteristics of trustworthy AI are integrated into organizational policies, processes, and procedures. 
 type: Govern
-order_number: 1
+order_number: 2
 ---
 {::options parse_block_html="true" /}
 

@@ -24,7 +24,7 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 * Extend documentation beyond system and task requirements to include possible risks due to deployment contexts and human-AI configurations. 
 * Follow stakeholder feedback processes to determine whether a system achieved its documented purpose within a given use context, and whether users can correctly comprehend system outputs or results.
 * Document dependencies on upstream data and other AI systems, including if the specified system is an upstream dependency for another AI system or other data.
-* Document connections the AI system or data will have to external networks (including the internet), financial markets, and critical infrastructure that have potential for negative externalities. Identify and document negative impacts as part of considering the broader risk thresholds and subsequent go/no-go deployment decisions.
+* Document connections the AI system or data will have to external networks (including the internet), financial markets, and critical infrastructure that have potential for negative externalities. Identify and document negative impacts as part of considering the broader risk thresholds and subsequent go/no-go deployment as well as post-deployment decommissioning decisions.
 
 </details>
 
@@ -34,9 +34,9 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 **Organizations can document the following:**
 - Does the AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 - To what extent is the output of each component appropriate for the operational context?
-- What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals     impacted by use of the AI system?
+- What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?
 - Based on the assessment, did your organization implement the appropriate level of human involvement in AI-augmented decision-making? (WEF Assessment)
-- How will the accountable human(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI or unrelated changes in operational/business environment, which may impact the accuracy of the AI?
+- How will the accountable AI actor(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI system or unrelated changes in operational/business environment, which may impact the accuracy of the AI system?
 
 **AI Transparency Resources:**
 - Datasheets for Datasets
@@ -56,7 +56,7 @@ International Standards Organization (ISO). 2019. ISO 9241-210:2019 Ergonomics o
 
 National Institute of Standards and Technology (NIST), Mary Theofanos, Yee-Yin Choong, et al. 2017. NIST Handbook 161 Usability Handbook for Public Safety Communications: Ensuring Successful Systems for First Responders. [URL](https://doi.org/10.6028/NIST.HB.161)
 
-**Human-machine interaction**
+**Human-AI interaction**
 
 Smith, C. J. (2019). Designing trustworthy AI: A human-machine teaming framework to guide development. arXiv preprint arXiv:1910.03515.
 
@@ -73,6 +73,8 @@ Forough Poursabzi-Sangdeh, Daniel G Goldstein, Jake M Hofman, et al. 2021. Manip
 Susanne Gaube, Harini Suresh, Martina Raue, et al. 2021. Do as AI say: susceptibility in deployment of clinical decision-aids. npj Digital Medicine 4, Article 31 (2021). [URL](https://doi.org/10.1038/s41746-021-00385-9)
 
 Zana Buçinca, Maja Barbara Malaya, and Krzysztof Z. Gajos. 2021. To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making. Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 188 (April 2021), 21 pages. [URL](https://doi.org/10.1145/3449287)
+
+Microsoft Responsible AI Standard, v2. [URL](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV)
 
 </details>
   

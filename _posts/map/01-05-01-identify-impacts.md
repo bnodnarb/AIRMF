@@ -35,9 +35,9 @@ The Map function provides an opportunity for organizations to assess potential A
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Organizations can document the following:**
-- If it relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated?
-- If it relates to other ethically protected subjects, have appropriate obligations been met? (e.g., medical data might include information collected from animals)
-- If it relates to people, could this dataset expose people to harm or legal action? (e.g., financial social or otherwise) What was done to mitigate or reduce the potential for harm?
+- If the AI system relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated?
+- If the AI system relates to other ethically protected subjects, have appropriate obligations been met? (e.g., medical data might include information collected from animals)
+- If the AI system relates to people, could this dataset expose people to harm or legal action? (e.g., financial social or otherwise) What was done to mitigate or reduce the potential for harm?
 
 **AI Transparency Resources:**
 - Datasheets for Datasets
@@ -70,5 +70,7 @@ Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 20
 Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. [URL](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
 
 Microsoft. Foundations of assessing harm. 2022.  [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/)
+
+Microsoft Responsible AI Standard, v2. [URL](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV)
 
 </details>

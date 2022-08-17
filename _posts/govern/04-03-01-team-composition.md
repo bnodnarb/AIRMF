@@ -3,7 +3,7 @@ date: 04-03-01
 title: GOVERN 3.1
 categories:
   - GOVERN-3
-description: Decision making related to mapping, measuring, and managing AI risks throughout the lifecycle is informed by a demographically and disciplinarily diverse team, including internal and external personnel. 
+description: Decision making related to mapping, measuring, and managing AI risks throughout the lifecycle is informed by a demographically and disciplinarily diverse team including internal and external personnel. Specifically, teams that are directly engaged with identifying design considerations and risks include a diversity of experience, expertise, and backgrounds to ensure AI systems meet requirements beyond a narrow subset of users.
 type: Govern
 order_number: 1
 ---
