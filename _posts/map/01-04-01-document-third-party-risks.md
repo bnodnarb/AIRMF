@@ -16,7 +16,7 @@ order_number: 1
 <br>
 Technologies and personnel from third-parties are another source of risk to consider during AI risk management activities. Such risks may be difficult to map since third-party provider risk tolerances may not be the same as the contracting institution.
 
-For example, the use of commercial large language models, which tend to rely on large uncurated web dataset or often have undisclosed origins, has raised concerns about privacy, bias, and unintended effects along with possible introduction of increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity.
+For example, the use of pre-trained models, which tend to rely on large uncurated web dataset or often have undisclosed origins, has raised concerns about privacy, bias, and unintended effects along with possible introduction of increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity.
 
 </details>
 

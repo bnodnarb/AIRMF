@@ -3,7 +3,7 @@ date: 01-01-05
 title: MAP 1.5
 categories:
   - MAP-1
-description: Impacts to individuals, groups, communities, organizations, or society are assessed.
+description: Organizational risk tolerances are determined.
 type: Map
 order_number: 5
 ---

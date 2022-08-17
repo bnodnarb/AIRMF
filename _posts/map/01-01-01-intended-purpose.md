@@ -91,12 +91,6 @@ Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Fai
 
 Microsoft. Foundations of assessing harm. 2022. [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/harms-modeling/)
 
-**Measurement and evaluation**
-
-Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 375–385. [URL](https://doi.org/10.1145/3442188.3445901)
-
-Ben Hutchinson, Negar Rostamzadeh, Christina Greer, et al. 2022. Evaluation Gaps in Machine Learning Practice. arXiv:2205.05256. [URL](https://arxiv.org/abs/2205.05256)
-
 **Understanding and documenting limitations in ML**
 
 Alexander D'Amour, Katherine Heller, Dan Moldovan, et al. 2020. Underspecification Presents Challenges for Credibility in Modern Machine Learning. arXiv:2011.03395. [URL](https://arxiv.org/abs/2011.03395)

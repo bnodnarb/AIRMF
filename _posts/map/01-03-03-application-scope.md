@@ -16,7 +16,7 @@ order_number: 3
 <br>
 Systems that function in a narrow scope tend to enable better mapping, measurement, and management of risks in the learning or decision-making tasks and the system context. A narrow application scope also helps ease oversight functions and related resources within an organization.
 
-For example, open-ended chatbot systems that interact with the public on the internet have a large number of risks that may be difficult to map, measure, and manage due to the variability from both the decision-making task and the operational context. Instead, a task-specific chatbot that utilizes specific templated responses that follow a defined “user journey” is a scope that can be more easily mapped, measured and managed. 
+For example, open-ended chatbot systems that interact with the public on the internet have a large number of risks that may be difficult to map, measure, and manage due to the variability from both the decision-making task and the operational context. Instead, a task-specific chatbot utilizing templated responses that follow a defined “user journey” is a scope that can be more easily mapped, measured and managed. 
 
 </details>
 
