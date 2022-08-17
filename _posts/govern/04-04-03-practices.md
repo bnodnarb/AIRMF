@@ -37,7 +37,14 @@ Information sharing about impacts or incidents detected during testing or deploy
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- Did your organization address usability problems and test whether user interfaces served their intended purposes? Consulting the community or end users at the earliest stages of development to ensure there is transparency on the technology used and how it is deployed.
+- Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
+- To what extent can users or parties affected by the outputs of the AI system test the AI system and provide feedback?
+
+**AI Transparency Resources:**
+- WEF Model AI Governance Framework Assessment 2020
+    - Companion to the Model AI Governance Framework- 2020
 
 </details>
 

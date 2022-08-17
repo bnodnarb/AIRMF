@@ -27,7 +27,16 @@ To mitigate the potential harms of third-party system failure, organizations sho
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- To what extent does the plan specifically address risks associated with acquisition, procurement of packaged software from vendors, cybersecurity controls, computational infrastructure, data, data science, deployment mechanics, and system failure?
+- Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
+- If your organization obtained datasets from a third party, did your organization assess and manage the risks of using such datasets?
+
+**AI Transparency Resources:**
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+- WEF Model AI Governance Framework Assessment 2020
+    - Companion to the Model AI Governance Framework- 2020
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
 
 </details>
 

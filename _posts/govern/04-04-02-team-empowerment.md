@@ -30,7 +30,16 @@ Impact assessments should be applied at the beginning of a process but also iter
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes?
+- How has the entity documented the AI system’s data provenance, including sources, origins, transformations, augmentations, labels, dependencies, constraints, and metadata?
+- To what extent has the entity clearly defined technical specifications and requirements for the AI system?"
+- To what extent has the entity documented the AI system’s development, testing methodology, metrics, and performance outcomes?
+- Have you documented and explained that machine errors may differ from human errors?
+
+**AI Transparency Resources:**
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+- [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
 
 </details>
 

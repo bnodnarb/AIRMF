@@ -35,7 +35,16 @@ Through regular training, AI actors should maintain awareness of:
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- Are the relevant staff dealing with AI systems properly trained to interpret AI model output and decisions as well as to detect and manage bias in data? 
+- How does the entity determine the necessary skills and experience needed to design, develop, deploy, assess, and monitor the AI system?
+- How does the entity assess whether personnel have the necessary skills, training, resources, and domain knowledge to fulfill their assigned responsibilities?
+- What efforts has the entity undertaken to recruit, develop, and retain a workforce with backgrounds, experience, and perspectives that reflect the community impacted by the AI system?
+
+**AI Transparency Resources:**
+- WEF Model AI Governance Framework Assessment 2020
+    - Companion to the Model AI Governance Framework- 2020
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
 
 </details>
 

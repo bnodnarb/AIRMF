@@ -23,23 +23,24 @@ Establishing and maintaining incident response plans can reduce the likelihood o
 
 <details>
 <summary markdown="span">**Actions**</summary>
-* Establish and regularly review documentation policies that address information related to:
-    * AI actor contact information
-    * Business justification
-    * Scope and usage
-    * Assumptions and limitations
-    * Description of training data
-    * Algorithmic methodology
-    * Evaluated alternative approaches
-    * Description of output data
-    * Testing and validation results
-    * Down- and up-stream dependencies
-    * Plans for deployment, monitoring, and change management
-    * Stakeholder engagement plans
-* Verify documentation policies for AI systems are in place, regularly, updated and followed across the organization.
-* Establish policies for a model documentation inventory system and regularly review its completeness, usability, and efficacy.
-* Establish mechanisms to regularly review the efficacy of risk management processes.
-* Identify AI actors responsible for evaluating efficacy of risk management processes and approaches, and for course-correction based on results.
+<br>
+Establish and regularly review documentation policies related to issues such as:
+
+Scope, approach, and definition setting:
+- Assumptions and limitations
+- Business justification
+- Scope and usage
+- Stakeholder engagement plans
+- Plans for deployment, monitoring, and change management
+- Evaluated alternative approaches
+
+Processes:
+- AI actor contact information
+- Description of training data
+- Algorithmic methodology
+- Description of output data
+- Testing and validation results
+- Down- and up-stream dependencies
 
 
 </details>
@@ -47,7 +48,14 @@ Establishing and maintaining incident response plans can reduce the likelihood o
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
+- What are the roles, responsibilities, and delegation of authorities of personnel involved in the design, development, deployment, assessment and monitoring of the AI system?
+- How will the appropriate performance metrics, such as accuracy, of the AI be monitored after the AI is deployed? How much distributional shift or model drift from baseline performance is acceptable?
+
+**AI Transparency Resources:**
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 
 </details>
 

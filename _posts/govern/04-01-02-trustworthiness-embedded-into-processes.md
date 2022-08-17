@@ -36,7 +36,14 @@ Establish and maintain formal AI risk management policies that address AI system
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- To what extent do these policies foster public trust and confidence in the use of the AI system?
+- What policies has the entity developed to ensure the use of the AI system is consistent with its stated values and principles?
+- To what extent are the model outputs consistent with the entity’s values and principles to foster public trust and equity?
+
+**AI Transparency Resources:**
+<br>
+[GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
 
 </details>
 

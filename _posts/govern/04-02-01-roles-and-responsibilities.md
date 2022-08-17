@@ -21,10 +21,12 @@ Facilitating a culture where AI system design and implementation decisions can b
 
 <details>
 <summary markdown="span">**Actions**</summary>
-* Establish policies that define the AI risk management roles and responsibilities for:
+* Establish policies that define the AI risk management roles and responsibilities for positions directly and indirectly related to AI systems, including, but not limited to
     * Boards of directors or advisory committees
     * Senior management
     * AI audit functions
+    * Product management
+    * Project management
     * AI design
     * AI development
     * Human-AI interaction
@@ -34,14 +36,23 @@ Facilitating a culture where AI system design and implementation decisions can b
     * Oversight functions 
 * Establish policies that promote regular communication among AI actors participating in AI risk management efforts.
 * Establish policies that separate management of AI system development functions from AI system testing functions, to enable independent course-correction of AI systems.
-* Establish policies to prevent conflicts of interest, and counteract confirmation bias and market incentives that may hinder AI risk management efforts.
-
+* Establish policies to identify, increase the transparency of, and prevent conflicts of interest, and to counteract confirmation bias and market incentives that may hinder AI risk management efforts.
 </details>
 
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
+- Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
+- Are the responsibilities of the personnel involved in the various AI governance processes clearly defined?
+- What are the roles, responsibilities, and delegation of authorities of personnel involved in the design, development, deployment, assessment and monitoring of the AI system?
+- Did your organization implement accountability-based practices in data management and protection (e.g. the PDPA and OECD Privacy Principles)?
+
+**AI Transparency Resources: Govern**
+- WEF Model AI Governance Framework Assessment 2020
+    - Companion to the Model AI Governance Framework- 2020
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
 
 </details>
 

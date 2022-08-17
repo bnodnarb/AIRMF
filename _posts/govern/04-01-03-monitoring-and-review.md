@@ -19,17 +19,38 @@ Standardized documentation can operationalize how organizational AI risk managem
 
 <details>
 <summary markdown="span">**Actions**</summary>
-* Establish policies and procedures for monitoring AI system performance, and to address bias, securitiy, privacy and other trustworthy characteristics, across the lifecycle of the system.
-* Establish policies for AI system incident response, or confirm that existing incident response policies address AI systems.
-* Establish policies to define organizational functions and personnel responsible for AI system monitoring and incident response activities.
-* Establish mechanisms to provide recourse for impacted individuals or communities to contest problematic AI system outcomes.
+<br>
+Establish policies for identifying and monitoring AI system incidents related to trustworthy AI characteristics, or confirm that existing incident response policies address AI systems and their trustworthiness. Organizational policies may address the following:
+
+Scope, approach, and definition setting:
+- Establish AI risk management policies that broadly align to AI system trustworthy characteristics.
+- Define key terms and concepts related to AI systems and the scope of their intended use.
+- Address the use of sensitive or otherwise risky data.
+- Outline and document risk mapping and measurement processes and standards.
+
+Verification and validation for compliance requirements: 
+- Verify that formal AI risk management policies align to existing legal standards, and industry best practices and norms.
+- Verify that formal AI risk management policies include currently deployed and third-party AI systems
+
+Process and standards modeling:
+- Detail standards for experimental design, data quality, and model training.
+- Detail model testing and validation processes.
+- Detail and test incident response plans.
+
 
 </details>
 
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- To what extent does the system/entity consistently measure progress towards stated goals and objectives?
+- Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
+- Did your organization address usability problems and test whether user interfaces served their intended purposes? Consulting the community or end users at the earliest stages of development to ensure there is transparency on the technology used and how it is deployed.
+
+**AI Transparency Resources:**
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+- WEF Model AI Governance Framework Assessment 2020.
 
 </details>
 

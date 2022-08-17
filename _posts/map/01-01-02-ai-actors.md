@@ -42,7 +42,8 @@ Having a diverse team contributes to more open sharing of ideas and assumptions 
 **AI Transparency Resources:**
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - WEF Model AI Governance Framework Assessment 2020
-- Companion to the Model AI Governance Framework- 2020“AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
+- Companion to the Model AI Governance Framework- 2020
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
 
 
 </details>

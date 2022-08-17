@@ -27,13 +27,26 @@ Risk tolerance, established by organizational leadership, reflects the level and
     * Red-amber-green (RAG) scales for impact severity and likelihood to assess AI system risk.
     * Establishment of policies for allocating risk management resources along established risk tolerance levels, with higher-risk systems receive more risk management resources and oversight.
     * Establishment of policies for approval, conditional approval, and disapproval of the design, implementation, and deployment of AI systems.
+* Establish policies facilitating the early decommissioning of an AI system that is deemed beyond practical mitigation.
+
 
 </details>
 
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
+- Who will be responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
+- Who is accountable for the ethical considerations during all stages of the AI lifecycle?
+- To what extent are the established procedures effective in mitigating bias, inequity, and other concerns resulting from the system?
+- Does the AI solution provide sufficient information to assist the personnel to make an informed decision and take actions accordingly?
+
+**AI Transparency Resources:**
+- WEF Model AI Governance Framework Assessment 2020
+    - Companion to the Model AI Governance Framework- 2020
+- “Stakeholders in Explainable AI,” Sep. 2018, [Online](http://arxiv.org/abs/1810.00184).
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
 
 </details>
 

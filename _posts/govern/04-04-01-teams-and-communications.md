@@ -23,7 +23,7 @@ Red-teaming is another risk management approach. This practice consists of adver
 <summary markdown="span">**Actions**</summary>
 * Establish policies that require oversight functions (legal, compliance, risk management) from the outset of the system design process.
 * Establish policies that promote effective challenge of AI system design, implementation, and deployment decisions, via mechanisms such as the three lines of defense, model audits, or red-teaming – to ensure that workplace risks such as groupthink do not take hold.
-* Establish policies that incentivize general critical thinking and review at an organizational and procedural level.
+* Establish policies that incentivize safety-first mindset and general critical thinking and review at an organizational and procedural level.
 * Establish whistleblower protections for insiders who report on perceived serious problems with AI systems.
 
 </details>
@@ -31,7 +31,18 @@ Red-teaming is another risk management approach. This practice consists of adver
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- To what extent has the entity documented the AI system’s development, testing methodology, metrics, and performance outcomes?
+- To what extent has the entity identified and mitigated potential bias—statistical, contextual, and historical—in the data?
+- Will the dataset be updated? How often and by whom? How will updates/revisions be documented and communicated (e.g., mailing list, GitHub)? Is there an erratum?
+- Did your organization’s board and/or senior management sponsor, support and participate in your organization’s AI governance?
+- Does your organization have an existing governance structure that can be leveraged to oversee the organization’s use of AI?
+
+**AI Transparency Resources:**
+- [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
+- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+- WEF Model AI Governance Framework Assessment 2020
+
 
 </details>
 

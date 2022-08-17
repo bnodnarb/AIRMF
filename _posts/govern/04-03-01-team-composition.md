@@ -36,7 +36,16 @@ Organizational management can:
 <details>
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
-Column G goes here.
+**Organizations can document the following:**
+- Are the relevant staff dealing with AI systems properly trained to interpret AI model output and decisions as well as to detect and manage bias in data?
+- Entities should include diverse perspectives from technical and non-technical communities throughout the AI life cycle to anticipate and mitigate unintended consequences including potential bias and discrimination.
+- Stakeholder involvement: Include diverse perspectives from a community of stakeholders throughout the AI life cycle to mitigate risks.
+- Strategies to incorporate diverse perspectives include establishing collaborative processes and multidisciplinary teams that involve subject matter experts in data science, software development, civil liberties, privacy and security, legal counsel, and risk management.
+- To what extent are the established procedures effective in mitigating bias, inequity, and other concerns resulting from the system?
+
+**AI Transparency Resources:**
+- WEF Model AI Governance Framework Assessment 2020
+- [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
 
 </details>
 
