@@ -20,11 +20,26 @@ layout: default
                 <br/>
                 <br/>
                 <a href="{{ site.baseurl }}{{ page.url }}" class="back-to-top">Back to Top &uarr;</a>
+                
+                <span class="pagepointer" style="float:right">
+                
+                {% if page.previous.url %}
+                    {% if page.previous.type==page.type %}
+                        <a class="previous" href="{{site.baseurl}}{{page.previous.url}}">{{page.previous.title}} &laquo;</a>
+                        &nbsp;
+                        &nbsp;
+                    {% endif %}
+                {% endif %}
+
                 {% if page.next.url %}
                     {% if page.next.type==page.type %}
-		        <a class="next" href="{{site.baseurl}}{{page.next.url}}" style="float:right">{{page.next.title}} &raquo;</a>
-  		    {% endif %}
-		{% endif %}
+                        <a class="next" href="{{site.baseurl}}{{page.next.url}}">{{page.next.title}} &raquo;</a>
+                        &nbsp;
+                        &nbsp;
+                    {% endif %}
+                {% endif %}
+
+                </span>
 
 	</section>
 </section>
