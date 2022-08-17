@@ -27,13 +27,13 @@ Organizations may also consider targeted consultation with subject matter expert
 
 <details>
 <summary markdown="span">**Actions**</summary>
-* Ensure AI risk management policies address explicit mechanisms for receiving, processing, and implementing stakeholder and user feedback that could include:
+* Verify that AI risk management policies address explicit mechanisms for receiving, processing, and implementing stakeholder and user feedback that could include:
     * Recourse mechanisms for faulty AI system outputs.
     * Bug bounties.
     * Human-centered design.
     * User-interaction and experience research.
     * Participatory stakeholder engagement with individuals and communities that may experience negative impacts. 
-* Ensure that stakeholder feedback is considered and addressed, including environmental concerns, and across the entire population of intended users, including historically excluded populations, people with disabilities, older people, and those with limited access to the internet and other basic technologies.
+* Verify that stakeholder feedback is considered and addressed, including environmental concerns, and across the entire population of intended users, including historically excluded populations, people with disabilities, older people, and those with limited access to the internet and other basic technologies.
 * Clarify the organization’s principles as they apply to AI systems – considering those which have been proposed publicly – to inform external stakeholders of the organization's values. Consider publishing or adopting AI principles.
 
 </details>

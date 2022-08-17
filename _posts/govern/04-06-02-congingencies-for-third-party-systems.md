@@ -20,7 +20,7 @@ To mitigate the potential harms of third-party system failure, organizations sho
 <details>
 <summary markdown="span">**Actions**</summary>
 * Establish policies for handling third-party system failures to include consideration of redundancy mechanisms for vital third-party AI systems.
-* Ensure that incident response plans address third-party AI systems.
+* Verify that incident response plans address third-party AI systems.
 
 </details>
 

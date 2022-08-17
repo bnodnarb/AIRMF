@@ -26,8 +26,8 @@ Through regular training, AI actors should maintain awareness of:
     * Negative impacts that may arise from AI systems.
     * Organizational AI policies.
     * Trustworthy AI characteristics.
-* Ensure organizational AI policies include mechanisms for internal AI personnel to acknowledge and commit to their roles and responsibilities.
-* Ensure organizational policies address change management and include mechanisms to communicate and acknowledge substantial AI system changes.
+* Verify that organizational AI policies include mechanisms for internal AI personnel to acknowledge and commit to their roles and responsibilities.
+* Verify that organizational policies address change management and include mechanisms to communicate and acknowledge substantial AI system changes.
 * Define paths along internal and external chains of accountability to escalate risk concerns.
 
 </details>
