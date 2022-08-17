@@ -23,7 +23,7 @@ Impact assessments should be applied at the beginning of a process but also iter
 <summary markdown="span">**Actions**</summary>
 * Establish impact assessment policies and processes for AI systems used by the organization.
 * Verify that impact assessment policies are appropriate to evaluate the potential negative impact of a system and how quickly a system changes, and that assessments are applied on a regular basis.
-* Verify that impact assessments are utilized to inform broader assessments of AI system risk.
+* Utilize impact assessments to inform broader evaluations of AI system risk.
 
 </details>
 
