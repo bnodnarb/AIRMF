@@ -15,7 +15,7 @@ order_number: 2
 <br>
 Organizational policies and procedures should be established to ensure that AI actors have the processes, knowledge, and expertise required to inform collaborative decisions about system deployment. These decisions are closely tied to AI system and organizational risk tolerance.
 
-Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations should apply a risk tolerance approach in which higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources.
+Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations should apply a risk tolerance approach where higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources.
 </details>
 
 <details>
@@ -27,7 +27,7 @@ Risk tolerance, established by organizational leadership, reflects the level and
     * Red-amber-green (RAG) scales for impact severity and likelihood to assess AI system risk.
     * Establishment of policies for allocating risk management resources along established risk tolerance levels, with higher-risk systems receive more risk management resources and oversight.
     * Establishment of policies for approval, conditional approval, and disapproval of the design, implementation, and deployment of AI systems.
-* Establish policies facilitating the early decommissioning of an AI system that is deemed beyond practical mitigation.
+* Establish policies facilitating the early decommissioning of an AI system that is deemed risky beyond practical mitigation.
 
 
 </details>
@@ -43,6 +43,7 @@ Risk tolerance, established by organizational leadership, reflects the level and
 - Does the AI solution provide sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 
 **AI Transparency Resources:**
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 - [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 - “Stakeholders in Explainable AI,” Sep. 2018, [Online](http://arxiv.org/abs/1810.00184).
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019

@@ -36,7 +36,7 @@ Accountability ensures that a specific team and individual is responsible for AI
 **Organizations can document the following:**
 - Did your organization’s board and/or senior management sponsor, support and participate in your organization’s AI governance?
 - What are the roles, responsibilities, and delegation of authorities of personnel involved in the design, development, deployment, assessment and monitoring of the AI system?
-- The AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly?
+- Do AI solutions provide sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 - To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
 
 **AI Transparency Resources:**

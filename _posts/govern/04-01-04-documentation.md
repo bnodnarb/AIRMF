@@ -1,5 +1,5 @@
 ---
-date: 04-01-03
+date: 04-01-04
 title: GOVERN 1.4
 categories:
   - GOVERN-1
@@ -15,33 +15,19 @@ order_number: 4
 <br>
 AI systems are dynamic and may perform in unexpected ways once deployed. Continuous monitoring is a risk management process for tracking unexpected issues and performance, in real-time or at a specific frequency, across the AI system lifecycle.
 
-Incident response and “appeal and override” are commonly used processes in information technology management that can be adopted for AI systems. These processes enable real-time flagging of potential incidents, and human adjudication of system outcomes.
+Incident response and “appeal and override” are commonly used processes in information technology management that are often overlooked for AI systems. These processes enable real-time flagging of potential incidents, and human adjudication of system outcomes. 
 
-Establishing and maintaining incident response plans can reduce the likelihood of additive impacts during an AI incident. Smaller organizations which may not have fulsome governance programs, can utilize incident response plans for addressing system failures, abuse and misuse.
+Establishing and maintaining incident response plans can reduce the likelihood of additive impacts during an AI incident. Smaller organizations which may not have fulsome governance programs, can utilize incident response plans for addressing system failures, abuse and misuse. 
 
 </details>
 
 <details>
 <summary markdown="span">**Actions**</summary>
-<br>
-Establish and regularly review documentation policies related to issues such as:
-
-Scope, approach, and definition setting:
-- Assumptions and limitations
-- Business justification
-- Scope and usage
-- Stakeholder engagement plans
-- Plans for deployment, monitoring, and change management
-- Evaluated alternative approaches
-
-Processes:
-- AI actor contact information
-- Description of training data
-- Algorithmic methodology
-- Description of output data
-- Testing and validation results
-- Down- and up-stream dependencies
-
+- Establish policies and procedures for monitoring AI system performance, and to address bias and security problems, across the lifecycle of the system.
+- Establish policies for AI system incident response, or confirm that existing incident response policies address AI systems.
+- Establish policies to define organizational functions and personnel responsible for AI system monitoring and incident response activities.
+- Establish mechanisms to enable the sharing of feedback from impacted individuals or communities about negative impacts from AI systems.
+- Establish mechanisms to provide recourse for impacted individuals or communities to contest problematic AI system outcomes.
 
 </details>
 
@@ -49,33 +35,21 @@ Processes:
 <summary markdown="span">**Transparency and Documentation**</summary>
 <br>
 **Organizations can document the following:**
-- To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
-- What are the roles, responsibilities, and delegation of authorities of personnel involved in the design, development, deployment, assessment and monitoring of the AI system?
-- How will the appropriate performance metrics, such as accuracy, of the AI be monitored after the AI is deployed? How much distributional shift or model drift from baseline performance is acceptable?
+- To what extent does the system/entity consistently measure progress towards stated goals and objectives?
+- Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
+- Did your organization address usability problems and test whether user interfaces served their intended purposes? Consulting the community or end users at the earliest stages of development to ensure there is transparency on the technology used and how it is deployed.
 
 **AI Transparency Resources:**
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- [Intel.gov: AI Ethics Framework for Intelligence Community  - 2020](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 
 </details>
 
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011).
+National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. [URL](https://nvlpubs.nist.gov/nistpubs/cswp/nist.cswp.04162018.pdf)
 
-Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021). [URL](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
-
-Margaret Mitchell et al., “Model Cards for Model Reporting." Proceedings of 2019 FATML Conference. [URL](https://arxiv.org/pdf/1810.03993.pdf)
-
-Timnit Gebru et al., “Datasheets for Datasets,” Communications of the ACM 64, No. 12, 2021. [URL](https://arxiv.org/pdf/1803.09010.pdf)
-
-Bender, E. M., Friedman, B. & McMillan-Major, A.,  (2022). A Guide for Writing Data Statements for Natural Language Processing. University of Washington.  Accessed July 14, 2022. [URL](https://techpolicylab.uw.edu/wp-content/uploads/2021/11/Data_Statements_Guide_V2.pdf)
-
-M. Arnold, R. K. E. Bellamy, M. Hind, et al. FactSheets: Increasing trust in AI services through supplier's declarations of conformity. IBM Journal of Research and Development 63, 4/5 (July-September 2019), 6:1-6:13. [URL](https://ieeexplore.ieee.org/document/8843893)
-
-John Richards, David Piorkowski, Michael Hind, et al. A Human-Centered Methodology for Creating AI FactSheets. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering. [URL](http://sites.computer.org/debull/A21dec/p47.pdf)
-
-OECD (2022), "OECD Framework for the Classification of AI systems", OECD Digital Economy Papers, No. 323, OECD Publishing, Paris. [URL](https://doi.org/10.1787/cb6d9eca-en)
+National Institute of Standards and Technology. (2012). Computer Security Incident Handling Guide. NIST Special Publication 800-61 Revision 2. [URL](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
 </details>

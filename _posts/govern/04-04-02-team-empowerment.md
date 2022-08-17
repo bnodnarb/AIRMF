@@ -33,7 +33,7 @@ Impact assessments should be applied at the beginning of a process but also iter
 **Organizations can document the following:**
 - How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes?
 - How has the entity documented the AI system’s data provenance, including sources, origins, transformations, augmentations, labels, dependencies, constraints, and metadata?
-- To what extent has the entity clearly defined technical specifications and requirements for the AI system?"
+- To what extent has the entity clearly defined technical specifications and requirements for the AI system?
 - To what extent has the entity documented the AI system’s development, testing methodology, metrics, and performance outcomes?
 - Have you documented and explained that machine errors may differ from human errors?
 
@@ -46,16 +46,23 @@ Impact assessments should be applied at the beginning of a process but also iter
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
+H.R. 2231, 116th Cong. (2019). [URL](https://www.congress.gov/bill/116th-congress/house-bill/2231/text)
 
-Patrick Hall, Navdeep Gill, and Benjamin Cox, “Responsible Machine Learning,” O’Reilly Media, 2020. [URL](https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
+BSA The Software Alliance (2021) Confronting Bias: BSA’s Framework to Build Trust in AI. [URL](https://www.bsa.org/reports/confronting-bias-bsas-framework-to-build-trust-in-ai)
 
-Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for Deposit-Taking Institutions, E-23 (Sept. 2017).
+David Wright, “Making Privacy Impact Assessments More Effective." The Information Society 29, 2013. [URL](https://iapp.org/media/pdf/knowledge_center/Making_PIA__more_effective.pdf)
 
-GAO, “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities,” GAO@100 (GAO-21-519SP), June 2021. [URL](https://www.gao.gov/assets/gao-21-519sp.pdf)
+E. Moss, E. Watkins, R. Singh, M. Elish, and J. Metcalf, “Assembling Accountability: Algorithmic Impact Assessment for the Public Interest”. [URL](https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/)
 
-Donald Sull, Stefano Turconi, and Charles Sull, “When It Comes to Culture, Does Your Company Walk the Talk?” MIT Sloan Mgmt. Rev., 2020. [URL](https://sloanreview.mit.edu/article/when-it-comes-to-culture-does-your-company-walk-the-talk)
+M. Kop, “AI Impact Assessment & Code of Conduct,” Futurium, May 2019. [URL](https://futurium.ec.europa.eu/en/european-ai-alliance/best-practices/ai-impact-assessment-code-conduct)
 
-Kathy Baxter, AI Ethics Maturity Model, Salesforce. [URL](https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf)
+D. Reisman, J. Schultz, K. Crawford, and M. Whittaker, “Algorithmic Impact Assessments: A Practical Framework For Public Agency Accountability,” AI Now, Apr. 2018. [URL](https://ainowinstitute.org/aiareport2018.pdf)
+
+A. D. Selbst, “An Institutional View Of Algorithmic Impact Assessments,” Harvard Journal of Law & Technology, vol. 35, no. 1, 2021
+
+Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. [URL](https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/)
+
+Kathy Baxter, AI Ethics Maturity Model, Salesforce [URL](https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf)
+
 
 </details>

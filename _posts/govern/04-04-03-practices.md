@@ -30,6 +30,7 @@ Information sharing about impacts or incidents detected during testing or deploy
 <summary markdown="span">**Actions**</summary>
 * Establish policies and procedures to facilitate and equip AI system testing.
 * Establish organizational commitment to identifying AI system limitations and sharing of insights about limitations within appropriate AI actor groups.
+* Establish policies for incident response.
 * Establish guidelines for handling and access control related to AI system risks and performance. 
 
 </details>
@@ -43,6 +44,7 @@ Information sharing about impacts or incidents detected during testing or deploy
 - To what extent can users or parties affected by the outputs of the AI system test the AI system and provide feedback?
 
 **AI Transparency Resources:**
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 - [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 
 </details>

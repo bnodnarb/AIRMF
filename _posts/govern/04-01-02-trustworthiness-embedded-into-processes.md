@@ -1,5 +1,5 @@
 ---
-date: 04-01-01
+date: 04-01-02
 title: GOVERN 1.2
 categories:
   - GOVERN-1
@@ -13,7 +13,11 @@ order_number: 2
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-Connecting policies, processes, and procedures and procedures to trustworthy characteristics can provide a roadmap for organizations looking to enhance internal practices and improve organizational accountability. Integrating trustworthy characteristics from the outset may also help ease organizational resources, by enabling AI actors to develop approaches for considering risk factors early rather than playing catch-up.
+Policies, processes, and procedures are a central component of effective AI risk management and fundamental to individual and organizational accountability. 
+
+Organizational policies and procedures will vary based on available resources and risk profiles, but can help systematize AI actor roles and responsibilities throughout the AI model lifecycle. Without such policies, risk management can be subjective across the organization, and  exacerbate rather than minimize risks over time. 
+
+Individuals and organizations cannot be held accountable to unwritten, unknown or unrecognized policies. Lack of clear information about responsibilities and chains of command will limit the effectiveness of risk management.
 
 </details>
 
@@ -21,15 +25,20 @@ Connecting policies, processes, and procedures and procedures to trustworthy cha
 <summary markdown="span">**Actions**</summary>
 <br>
 Establish and maintain formal AI risk management policies that address AI system trustworthy characteristics throughout the system’s lifecycle. Organizational policies should:
-* Establish AI risk management policies that broadly align to AI system trustworthy characteristics.
-* Define key terms and concepts related to AI systems and the scope of their intended use.
-* Address the use of sensitive or otherwise risky data.
-* Outline and document risk mapping and measurement processes and standards.
-* Verify that formal AI risk management policies align to existing legal standards, and industry best practices and norms.
-* Verify that formal AI risk management policies include currently deployed and third-party AI systems.
-* Detail standards for experimental design, data quality, and model training.
-* Detail model testing and validation processes.
-* Detail and test incident response plans.
+- Define key terms and concepts related to AI systems and the scope of their intended use. 
+- Address the use of sensitive or otherwise risky data.
+- Detail standards for experimental design, data quality, and model training.
+- Outline and document risk mapping and measurement processes and standards.
+- Detail model testing and validation processes.
+- Detail review processes for legal and risk functions.
+- Establish the frequency of and detail for monitoring, auditing and review processes.
+- Outline change management requirements.
+- Outline processes for internal and external stakeholder engagement.
+- Establish whistleblower policies to facilitate reporting of serious AI system concerns.
+- Detail and test incident response plans.
+- Verify that formal AI risk management policies align to existing legal standards, and industry best practices and norms.
+- Establish AI risk management policies that broadly align to AI system trustworthy characteristics.
+- Verify that formal AI risk management policies include currently deployed and third-party AI systems.
 
 </details>
 

@@ -17,7 +17,7 @@ Organizations usually engage multiple third parties for external expertise, data
 
 The need to rely on external resources or expertise may heighten existing challenges in an already complex undertaking, increasing the difficulty of risk management efforts. 
 
-Organizational approaches to managing third-party risk should be tailored to the resources, risk profile, and use case for each system. Organizations should strive to apply governance approaches to third-party AI system and datal as they would for internal resources — including open source software, publicly available data, and commercially available models.
+Organizational approaches to managing third-party risk should be tailored to the resources, risk profile, and use case for each system. Organizations should strive to apply governance approaches to third-party AI system and data as they would for internal resources — including open source software, publicly available data, and commercially available models.
 
 </details>
 
@@ -45,6 +45,7 @@ Organizational approaches to managing third-party risk should be tailored to the
 **AI Transparency Resources:**
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities]()
 - [Intel.gov: AI Ethics Framework for Intelligence Community  - 2020](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 - [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 - “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019

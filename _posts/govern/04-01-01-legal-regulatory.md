@@ -34,7 +34,7 @@ Additionally, some intended users of AI systems may not have consistent or relia
 <br>
 **Organizations can document the following:**
 - To what extent has the entity defined and documented the regulatory environment—including minimum requirements in laws and regulations?
-- When auditing an AI system, has existing legislation or regulatory guidance been reviewed and documented? (have laws or regulatory guidance that may serve as criteria for assessing AI systems been established?)
+- When auditing an AI system, has existing legislation or regulatory guidance been reviewed and documented?
 - Has the system been reviewed to ensure the AI system complies with relevant laws, regulations, standards, and guidance?
 
 **AI Transparency Resources:**

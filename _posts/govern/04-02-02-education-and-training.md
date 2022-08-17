@@ -15,7 +15,7 @@ order_number: 2
 <br>
 Through regular training, AI actors should maintain awareness of:
 * AI risk management goals and their role in achieving them. 
-* organizational policies, applicable laws and regulations, and industry best practices and norms. 
+* Organizational policies, applicable laws and regulations, and industry best practices and norms. 
 
 </details>
 
@@ -42,6 +42,7 @@ Through regular training, AI actors should maintain awareness of:
 - What efforts has the entity undertaken to recruit, develop, and retain a workforce with backgrounds, experience, and perspectives that reflect the community impacted by the AI system?
 
 **AI Transparency Resources:**
+- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 - [WEF Companion to the Model AI Governance Framework- 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
 - [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
 

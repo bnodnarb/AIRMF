@@ -21,7 +21,7 @@ Red-teaming is another risk management approach. This practice consists of adver
 
 <details>
 <summary markdown="span">**Actions**</summary>
-* Establish policies that require oversight functions (legal, compliance, risk management) from the outset of the system design process.
+* Establish policies that require inclusion of oversight functions (legal, compliance, risk management) from the outset of the system design process.
 * Establish policies that promote effective challenge of AI system design, implementation, and deployment decisions, via mechanisms such as the three lines of defense, model audits, or red-teaming – to ensure that workplace risks such as groupthink do not take hold.
 * Establish policies that incentivize safety-first mindset and general critical thinking and review at an organizational and procedural level.
 * Establish whistleblower protections for insiders who report on perceived serious problems with AI systems.
@@ -49,22 +49,16 @@ Red-teaming is another risk management approach. This practice consists of adver
 <details>
 <summary markdown="span">**References**</summary>
 <br>
-H.R. 2231, 116th Cong. (2019). [URL](https://www.congress.gov/bill/116th-congress/house-bill/2231/text)
+Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011)
 
-BSA The Software Alliance (2021) Confronting Bias: BSA’s Framework to Build Trust in AI. [URL](https://www.bsa.org/reports/confronting-bias-bsas-framework-to-build-trust-in-ai)
+Patrick Hall, Navdeep Gill, and Benjamin Cox, “Responsible Machine Learning,” O’Reilly Media, 2020. [URL](https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
 
-David Wright, “Making Privacy Impact Assessments More Effective." The Information Society 29, 2013. [URL](https://iapp.org/media/pdf/knowledge_center/Making_PIA__more_effective.pdf)
+Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for Deposit-Taking Institutions, E-23 (Sept. 2017).
 
-E. Moss, E. Watkins, R. Singh, M. Elish, and J. Metcalf, “Assembling Accountability: Algorithmic Impact Assessment for the Public Interest”. [URL](https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/)
+GAO, “Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities,” GAO@100 (GAO-21-519SP), June 2021. [URL](https://www.gao.gov/assets/gao-21-519sp.pdf)
 
-M. Kop, “AI Impact Assessment & Code of Conduct,” Futurium, May 2019. [URL](https://futurium.ec.europa.eu/en/european-ai-alliance/best-practices/ai-impact-assessment-code-conduct)
+Donald Sull, Stefano Turconi, and Charles Sull, “When It Comes to Culture, Does Your Company Walk the Talk?” MIT Sloan Mgmt. Rev., 2020. [URL](https://sloanreview.mit.edu/article/when-it-comes-to-culture-does-your-company-walk-the-talk)
 
-D. Reisman, J. Schultz, K. Crawford, and M. Whittaker, “Algorithmic Impact Assessments: A Practical Framework For Public Agency Accountability,” AI Now, Apr. 2018. [URL](https://ainowinstitute.org/aiareport2018.pdf)
-
-A. D. Selbst, “An Institutional View Of Algorithmic Impact Assessments,” Harvard Journal of Law & Technology, vol. 35, no. 1, 2021
-
-Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. [URL](https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/)
-
-Kathy Baxter, AI Ethics Maturity Model, Salesforce [URL](https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf)
+Kathy Baxter, AI Ethics Maturity Model, Salesforce. [URL](https://www.salesforceairesearch.com/static/ethics/EthicalAIMaturityModel.pdf)
 
 </details>
