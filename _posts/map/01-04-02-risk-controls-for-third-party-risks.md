@@ -38,7 +38,7 @@ In the course of their work, AI actors often utilize open-source, or otherwise f
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
 - WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019.
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019, [LINK](https://altai.insight-centre.org/), [URL](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment).
 
 </details>
 

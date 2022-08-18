@@ -42,7 +42,7 @@ The Map function provides an opportunity for organizations to assess potential A
 **AI Transparency Resources:**
 - Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019,  [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019.
 

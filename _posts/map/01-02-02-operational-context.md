@@ -42,8 +42,8 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 - Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
 - WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
 - WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- ATARC Model Transparency Assessment (WD) – 2020.
-- Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020.
+- ATARC Model Transparency Assessment (WD) – 2020, [URL](https://atarc.org/wp-content/uploads/2020/10/atarc_model_transparency_assessment-FINAL-092020-2.docx).
+- Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020, [URL](https://lucris.lub.lu.se/ws/files/79208055/Larsson_Heintz_2020_Transparency_in_artificial_intelligence_2020_05_05.pdf).
 
 </details>
 

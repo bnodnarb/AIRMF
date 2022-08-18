@@ -37,9 +37,9 @@ AI systems should present a business benefit beyond the status quo when consider
 - To what extent is the output appropriate for the operational context?
 
 **AI Transparency Resources:**
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019.
-- Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities, 2021.
-
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019, [LINK](https://altai.insight-centre.org/), [URL](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment).
+- Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities, 2021, [URL](https://www.gao.gov/products/gao-21-519sp), [PDF](https://www.gao.gov/assets/gao-21-519sp-highlights.pdf).
+ 
 </details>
 
 <details>
