@@ -41,10 +41,10 @@ Participatory approaches such as human-centered design (HCD) and value-sensitive
 - What justifications, if any, has the entity provided for the assumptions, boundaries, and limitations of the AI system?
 
 **AI Transparency Resources:**
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- “Stakeholders in Explainable AI,” Sep. 2018, [Online](http://arxiv.org/abs/1810.00184).
-- “Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021
-- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [Online](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), [PDF](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- “Stakeholders in Explainable AI,” Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
+- “Including Insights from the Comptroller General’s Forum on the Oversight of Artificial Intelligence An Accountability Framework for Federal Agencies and Other Entities,” 2021.
+- “HIGH-LEVEL EXPERT GROUP ON ARTIFICIAL INTELLIGENCE SET UP BY THE EUROPEAN COMMISSION ETHICS GUIDELINES FOR TRUSTWORTHY AI.” [URL](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), [PDF](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf)
 
 </details>
 

@@ -39,7 +39,7 @@ Additionally, some intended users of AI systems may not have consistent or relia
 
 **AI Transparency Resources:**
 <br>
-[GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities], [URL](https://www.gao.gov/products/gao-21-519sp).
 
 </details>
 

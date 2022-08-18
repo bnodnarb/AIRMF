@@ -39,11 +39,11 @@ Once deployed and in use, AI systems may sometimes perform poorly, manifest unan
 - How will the accountable AI actor(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI system or unrelated changes in operational/business environment, which may impact the accuracy of the AI system?
 
 **AI Transparency Resources:**
-- Datasheets for Datasets
-- WEF Model AI Governance Framework Assessment 2020
-- Companion to the Model AI Governance Framework- 2020
-- ATARC Model Transparency Assessment (WD) – 2020
-- Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020
+- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
+- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
+- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
+- ATARC Model Transparency Assessment (WD) – 2020.
+- Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020.
 
 </details>
 

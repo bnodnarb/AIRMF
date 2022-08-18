@@ -40,11 +40,11 @@ The decision to deploy should not be made by AI actors carrying out design and d
 - How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes?
 
 **AI Transparency Resources:**
-- Datasheets for Datasets
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
-- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019
+- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019.
 
 </details>
 

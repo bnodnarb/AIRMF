@@ -42,9 +42,9 @@ Go/no-go decisions related to AI system risks should take stakeholder feedback i
 - To what extent are the established procedures effective in mitigating bias, inequity, and other concerns resulting from the system?
 
 **AI Transparency Resources:**
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- WEF Model AI Governance Framework Assessment 2020
-- Companion to the WEF Model AI Governance Framework- 2020
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
+- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
 
 </details>
 

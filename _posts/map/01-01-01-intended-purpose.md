@@ -46,17 +46,17 @@ It is not necessarily possible to have advanced knowledge about all potential se
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>         
-                     
+<summary markdown="span">**Transparency and Documentation**</summary>
+<br>
 **Organizations can document the following:**
-* Which AI actors are responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
-* Which AI actors are responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
-* Who is the person(s) accountable for the ethical considerations across the AI lifecycle?
+- Which AI actors are responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
+- Which AI actors are responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
+- Who is the person(s) accountable for the ethical considerations across the AI lifecycle?
 
 **AI Transparency Resources:**
-* GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-* “Stakeholders in Explainable AI,” Sep. 2018, [Online]. [link](http://arxiv.org/abs/1810.00184)
-* "Microsoft Responsible AI Standard, v2" [link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- “Stakeholders in Explainable AI,” Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
+- "Microsoft Responsible AI Standard, v2", [URL](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ZPmV).
 
 </details>
 

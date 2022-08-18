@@ -52,7 +52,7 @@ Establish and maintain formal AI risk management policies that address AI system
 
 **AI Transparency Resources:**
 <br>
-[GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
+GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
 
 </details>
 

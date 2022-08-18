@@ -39,8 +39,8 @@ For example, open-ended chatbot systems that interact with the public on the int
 - How do the technical specifications and requirements align with the AI system’s goals and objectives?
 
 **AI Transparency Resources:**
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019.
 
 </details>
 

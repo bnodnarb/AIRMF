@@ -35,10 +35,10 @@ In the course of their work, AI actors often utilize open-source, or otherwise f
 - Did you establish mechanisms that facilitate the AI system’s auditability (e.g. traceability of the development process, the sourcing of training data and the logging of the AI system’s processes, outcomes, positive and negative impact)?
 
 **AI Transparency Resources:**
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
-- WEF Model AI Governance Framework Assessment 2020
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
+- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019.
 
 </details>
 

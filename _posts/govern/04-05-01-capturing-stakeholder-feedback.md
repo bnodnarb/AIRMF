@@ -49,10 +49,10 @@ Organizations may also consider targeted consultation with subject matter expert
 - Stakeholder involvement: Include diverse perspectives from a community of stakeholders throughout the AI life cycle to mitigate risks.
 
 **AI Transparency Resources:**
-- [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
-- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
-- “Stakeholders in Explainable AI,” Sep. 2018, [Online](http://arxiv.org/abs/1810.00184).
+- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
+- “Stakeholders in Explainable AI,” Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
 
 </details>
 

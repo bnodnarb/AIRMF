@@ -37,9 +37,9 @@ AI system benefits should counterbalance the inherent risks and implicit and exp
 - Has your organization implemented a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
 
 **AI Transparency Resources:**
-- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019.
 
 </details>
 

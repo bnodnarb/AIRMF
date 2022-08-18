@@ -44,8 +44,8 @@ Organizational management can:
 - To what extent are the established procedures effective in mitigating bias, inequity, and other concerns resulting from the system?
 
 **AI Transparency Resources:**
-- [WEF Model AI Governance Framework Assessment 2020](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
-- [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
+- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
+- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
 
 </details>
 

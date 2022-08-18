@@ -51,8 +51,9 @@ Standardized documentation can operationalize how organizational AI risk managem
 - How will the appropriate performance metrics, such as accuracy, of the AI be monitored after the AI is deployed? How much distributional shift or model drift from baseline performance is acceptable?
 
 **AI Transparency Resources:**
-- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- [Intel.gov: AI Ethics Framework for Intelligence Community  - 2020](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
+
 </details>
 
 <details>

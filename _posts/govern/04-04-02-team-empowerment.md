@@ -38,8 +38,8 @@ Impact assessments should be applied at the beginning of a process but also iter
 - Have you documented and explained that machine errors may differ from human errors?
 
 **AI Transparency Resources:**
-- [GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities](https://www.gao.gov/products/gao-21-519sp)
-- [Datasheets for Datasets](http://arxiv.org/abs/1803.09010)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
 
 </details>
 

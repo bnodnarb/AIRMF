@@ -40,11 +40,10 @@ Having a diverse team contributes to more open sharing of ideas and assumptions 
 - Did your organization address usability problems and test whether user interfaces served their intended purposes? Consulting the community or end users at the earliest stages of development to ensure there is transparency on the technology used and how it is deployed.
 
 **AI Transparency Resources:**
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
-- WEF Model AI Governance Framework Assessment 2020
-- Companion to the Model AI Governance Framework- 2020
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019
-
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
+- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
 
 </details>
 
