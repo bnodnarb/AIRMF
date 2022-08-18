@@ -51,8 +51,8 @@ Organizations may also consider targeted consultation with subject matter expert
 **AI Transparency Resources:**
 - Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
-- “Stakeholders in Explainable AI,” Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019, [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
+- Stakeholders in Explainable AI, Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
 
 </details>
 
