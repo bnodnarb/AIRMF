@@ -45,8 +45,8 @@ Risk tolerance, established by organizational leadership, reflects the level and
 **AI Transparency Resources:**
 - WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
 - WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- “Stakeholders in Explainable AI,” Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
+- Stakeholders in Explainable AI, Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019, [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
 
 </details>
 
