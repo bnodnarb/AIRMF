@@ -47,8 +47,8 @@ Organizational approaches to managing third-party risk should be tailored to the
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
 - WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
 - WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019.
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019.
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019, [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019, [LINK](https://altai.insight-centre.org/), [URL](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment).
 
 </details>
 
