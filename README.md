@@ -1,1 +1,1 @@
-# NIST AIRMF Playbook
+# NIST AI RMF Playbook
