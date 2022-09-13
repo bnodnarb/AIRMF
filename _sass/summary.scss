@@ -1,5 +1,5 @@
 summary:focus {
-    color: #041a33;
+    color: #041a33; 
   }
 details:hover {
     color: $link-color;    
@@ -28,7 +28,8 @@ details {
 
 summary {
    padding: .25rem 1rem;
-   background-color: #F0F0F0;
+   /* background-color: #F0F0F0; */
+   background-color: var(--color);
    font: bold;
    border: none;
    border-radius: 3px;

@@ -12,7 +12,7 @@ The Map function establishes the context and frames risks related to an AI syste
         {% if category.name contains 'MAP' %}
               {% assign category_name = category.name %}
               {% assign posts = site.categories[category_name] | sort: "order_number" %}
-              <button class="accordion"><strong>{{ category.name }}: {{ category.title }}</strong></button>
+              <button class="accordion" style="--color: #67ba9d"><strong>{{ category.name }}: {{ category.title }}</strong></button>
           	<div class="panel">
                         {% for post in posts %}
              			<button class="linkbtn">

@@ -14,7 +14,18 @@ layout: default
                 <h4 style="font-family: Arial;"> {{ page.description }} </h4>
 
                 <br>
-		<div class="tutorial-main">
+                {% case tname %}
+                   {% when "Govern" %}
+                      {% assign col = "#489fce" %}
+                   {% when "Map" "%}
+                      {% assign col = "#67ba9d" %}
+                   {% when "Measure" %}
+                      {% assign col = "#f3d05d" %}
+                   {% when "Manage" %}
+                      {% assign col = "#255888" %}
+                {% endcase %}
+
+		<div class="tutorial-main" style="--color: {{ col }};">
    			   {{ content }}
                 </div>
                 <br/>
