@@ -5,10 +5,79 @@
 
          }
 
+  function getPreview(query, content, previewLength) {
+                previewLength = previewLength || (content.length * 2);
+
+                var parts = query.split(" "),
+                        match = content.toLowerCase().indexOf(query.toLowerCase()),
+                        matchLength = query.length,
+                        preview;
+
+                // Find a relevant location in content
+                for (var i = 0; i < parts.length; i++) {
+                        if (match >= 0) {
+                                break;
+                        }
+
+                        match = content.toLowerCase().indexOf(parts[i].toLowerCase());
+                        matchLength = parts[i].length;
+                }
+
+                // Create preview
+                if (match >= 0) {
+                        var start = match - (previewLength / 2),
+                                end = start > 0 ? match + matchLength + (previewLength / 2) : previewLength;
+
+                        preview = content.substring(start, end).trim();
+
+                        if (start > 0) {
+                                preview = "..." + preview;
+                        }
+
+                        if (end < content.length) {
+                                preview = preview + "...";
+                        }
+
+                        // Highlight query parts
+                        preview = preview.replace(new RegExp("(" + parts.join("|") + ")", "gi"), "<strong>$1</strong>");
+                } else {
+                        // Use start of content if no match found
+                        preview = content.substring(0, previewLength).trim() + (content.length > previewLength ? "..." : "");
+                }
+
+                return preview;
+        }
+
+
 
   function displaySearchResults(results, searchTerm, store) {
     var searchResults = document.getElementById('search-results');
     
+    if (results.length) { // Are there any results?
+      var appendString = "Showing results for ''<b>" + searchTerm + "</b>'':";
+      appendString += '<br>'
+
+      for (var i = 0; i < results.length; i++) {  // Iterate over the results
+
+        var item = store[results[i].ref];
+
+        contentPreview = getPreview(searchTerm, item.content.substring(10, item.content.length), 470),
+        titlePreview = getPreview(searchTerm, item.title);
+        
+        appendString += "<li><h6><a href='" + item.url.trim() + "'>" + titlePreview + "</a></h6><p><small>" + contentPreview + "</small></p></li>";
+
+      }
+
+      searchResults.innerHTML = appendString;
+    } else {
+      searchResults.innerHTML = '<li>No results found!</li>';
+    }
+  }
+
+  //display results only with description section;
+  function displayResults(results, searchTerm, store) {
+    var searchResults = document.getElementById('search-results');
+
     if (results.length) { // Are there any results?
       var appendString = "Showing results for '<b>" + searchTerm + "</b>':";
       appendString += '<br>'
@@ -29,6 +98,7 @@
       searchResults.innerHTML = '<li>No results found!</li>';
     }
   }
+
 
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
