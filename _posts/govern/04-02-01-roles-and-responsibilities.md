@@ -49,7 +49,7 @@ Facilitating a culture where AI system design and implementation decisions can b
 - What are the roles, responsibilities, and delegation of authorities of personnel involved in the design, development, deployment, assessment and monitoring of the AI system?
 - Did your organization implement accountability-based practices in data management and protection (e.g. the PDPA and OECD Privacy Principles)?
 
-**AI Transparency Resources: Govern**
+**AI Transparency Resources:**
 - WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
 - WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
