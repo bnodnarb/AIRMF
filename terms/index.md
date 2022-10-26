@@ -4,6 +4,11 @@ title: terms
 description: 
 permalink:
 ---
+<head>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/font-awesome.min.css">
+</head>
+
+<button class="btn" style="float:right"><a href="{{ site.baseurl }}/terms/terms.pdf" download><i class="fa fa-download">&nbsp;&nbsp;&nbsp;&nbsp;</i></a></button>
 
 <h2 align="left">AI Actors</h2>
 
