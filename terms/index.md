@@ -56,7 +56,7 @@ tr:nth-child(even) {
 | **End Users** <br/> <br/> <br/> | Individuals or groups that use the system for a specific purpose. These individuals or groups interact with an AI system in a specific context. End users can range in competency from AI experts to first-time technology end-users. |
 | **AI Operators** <br/> <br/> <br/> <br/> <br/> |  Continuously assess system recommendations and impacts (both intended and unintended) in light of the system’s objectives as well as the ethical considerations that go into its operation. Operators can often be associated with the planning and design or specification stage of the AI system lifecycle as well as post-deployment monitoring. |
 | **Affected Individuals/Communities** <br/> <br/> <br/>| Any individual, group, community, or stakeholder organization affected by AI systems or decisions based on the output of AI systems, directly or indirectly. These individuals do not necessarily interact with the system and can be indirectly or directly affected by the deployment of an AI system or application. |
-| **General public** <br/> <br/> <br/> <br/> | Most likely to directly experience positive and negative impacts of AI technologies. They may provide the motivation for actions taken by the other stakeholders and can include individuals, communities, and consumers in the context where an AI system is developed or deployed. |
+| **General Public** <br/> <br/> <br/> <br/> | Most likely to directly experience positive and negative impacts of AI technologies. They may provide the motivation for actions taken by the other stakeholders and can include individuals, communities, and consumers in the context where an AI system is developed or deployed. |
 
 
 
