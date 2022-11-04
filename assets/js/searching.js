@@ -1,10 +1,3 @@
-  function myalert()
-  {
-   alert("Hello from searching.js");
-   document.write("Welcome to Javatpoint!");
-
-         }
-
   function getPreview(query, content, previewLength) {
                 previewLength = previewLength || (content.length * 2);
 
@@ -57,22 +50,49 @@
       var appendString = "Showing results for ''<b>" + searchTerm + "</b>'':";
       appendString += '<br>'
 
+      //appendString = appendString + results.length;
+      fuzzyString = '';
+
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
 
         var item = store[results[i].ref];
 
-        contentPreview = getPreview(searchTerm, item.content.substring(10, item.content.length), 470),
+        contentPreview = getPreview(searchTerm, item.content.substring(10, item.content.length), 460),
         titlePreview = getPreview(searchTerm, item.title);
-        
-        appendString += "<li><h6><a href='" + item.url.trim() + "'>" + titlePreview + "</a></h6><p><small>" + contentPreview + "</small></p></li>";
 
-      }
+	match = getMatch(searchTerm, item.content.substring(10, item.content.length)); 
+        if (match >= 0) {        
+        	appendString += "<li><h6><a href='" + item.url.trim() + "'>" + titlePreview + "</a></h6><p><small>" + contentPreview + "</small></p></li>";
+	} else {
+               fuzzyString += "<li><h6><a href='" + item.url.trim() + "'>" + titlePreview + "</a></h6><p><small>" + contentPreview + "</small></p></li>";
+        }
+      }  //for
 
-      searchResults.innerHTML = appendString;
+      searchResults.innerHTML = appendString + fuzzyString;
     } else {
       searchResults.innerHTML = '<li>No results found!</li>';
     }
   }
+
+  //get match location;
+  function getMatch(query, content) {
+
+                var parts = query.split(" "),
+                        match = content.toLowerCase().indexOf(query.toLowerCase()),
+                        matchLength = query.length,
+                        preview;
+
+                // Find a relevant location in content
+                for (var i = 0; i < parts.length; i++) {
+                        if (match >= 0) {
+                                break;
+                        }
+
+                        match = content.toLowerCase().indexOf(parts[i].toLowerCase());
+                        matchLength = parts[i].length;
+                }
+                return match;
+        }
 
   //display results only with description section;
   function displayResults(results, searchTerm, store) {
