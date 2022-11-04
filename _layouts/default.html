@@ -28,13 +28,17 @@
 
 	<body class="{{ page.body_class }}">
 		<header>
+                        <div class="wrapper" style="float: right; ">
+                            <section class="search">
+                            {% include search.html %}
+                            </section>
+                        </div>
 			<div class="wrapper">
 				<section class="top-bar">
                                         {% include navigation.html %}
 				</section>
 				<section class="hero_search">
 					<h1>NIST AI Risk Management Framework Playbook</h1>
-                                        {% include search.html %}
 				</section>
 			</div>
 
