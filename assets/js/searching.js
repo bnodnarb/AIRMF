@@ -133,7 +133,6 @@
     }
   }
 
-  //window.alert("Hello outside any functions");
   var searchTerm = getQueryVariable('query');
   if (searchTerm) {
   	//window.alert(searchTerm);
