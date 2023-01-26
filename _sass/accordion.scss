@@ -1,7 +1,8 @@
 .accordion {
   /* background-color: #eee; */
   background-color: var(--color); 
-  color: #333;
+  #color: #333;
+  color: var(--fcolor);
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -21,7 +22,8 @@
 .accordion:after {
   content: "\002B";  /**plus sign**/
   /**content: "\00A0\00A0\276F";  right arrow sign**/
-  color: #333;
+  /* color: #333; */
+  color: var(--fcolor);
   font-weight: bold;
   float: right;
   margin-left: 5px;
