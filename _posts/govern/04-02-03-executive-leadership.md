@@ -3,7 +3,7 @@ date: 04-02-03
 title: GOVERN 2.3
 categories:
   - GOVERN-2
-description: Executive leadership of the organization considers decisions about risks associated with AI system development and deployment to be their responsibility. 
+description: Executive leadership of the organization takes responsibility for decisions about risks associated with AI system development and deployment.
 type: Govern
 order_number: 3
 ---
@@ -13,20 +13,20 @@ order_number: 3
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-Senior leadership in organizations that maintain an AI portfolio should be aware of AI risks and affirm the organizational appetite for such risks. 
+Senior leadership and C-Suites in organizations that maintain an AI portfolio should maintain awareness of AI risks, affirm the organizational appetite for such risks, and be responsible for managing those risks..
 
-Accountability ensures that a specific team and individual is responsible for AI risk management efforts. Some organizations grant authority and resources (human and budgetary) to a designated officer who ensures adequate performance of the institution’s AI portfolio (e.g.  predictive modeling, machine learning).
+Accountability ensures that a specific team and individual is responsible for AI risk management efforts. Some organizations grant authority and resources (human and budgetary) to a designated officer who ensures adequate performance of the institution’s AI portfolio (e.g. predictive modeling, machine learning).
 
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
-* Organizational management can:
-    * Declare risk tolerances for developing or using AI systems.
-    * Support AI risk management efforts, and play an active role in such efforts.
-    * Support competent risk management executives.
-    * Delegate the power, resources, and authorization to perform risk management to each appropriate level throughout the management chain.
-* Organizations can establish board committees for AI risk management and oversight functions and integrate those functions within the organization’s broader enterprise risk management approaches.
+<summary markdown="span">**Suggested Actions**</summary>
+- Organizational management can:
+	- Declare risk tolerances for developing or using AI systems.
+	- Support AI risk management efforts, and play an active role in such efforts.
+	- Support competent risk management executives.
+	- Delegate the power, resources, and authorization to perform risk management to each appropriate level throughout the management chain.
+- Organizations can establish board committees for AI risk management and oversight functions and integrate those functions within the organization’s broader enterprise risk management approaches.
 
 </details>
 
@@ -40,8 +40,8 @@ Accountability ensures that a specific team and individual is responsible for AI
 - To what extent has the entity clarified the roles, responsibilities, and delegated authorities to relevant stakeholders?
 
 **AI Transparency Resources:**
-- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- WEF Companion to the Model AI Governance Framework- 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities. [URL](https://www.gao.gov/products/gao-21-519sp)
 
 </details>
 

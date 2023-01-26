@@ -13,14 +13,14 @@ order_number: 2
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-To mitigate the potential harms of third-party system failure, organizations should implement policies and procedures that include redundancies for covering third-party functions. 
+To mitigate the potential harms of third-party system failures, organizations may implement policies and procedures that include redundancies for covering third-party functions.
 
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
-* Establish policies for handling third-party system failures to include consideration of redundancy mechanisms for vital third-party AI systems.
-* Verify that incident response plans address third-party AI systems.
+<summary markdown="span">**Suggested Actions**</summary>
+- Establish policies for handling third-party system failures to include consideration of redundancy mechanisms for vital third-party AI systems.
+- Verify that incident response plans address third-party AI systems.
 
 </details>
 
@@ -29,14 +29,14 @@ To mitigate the potential harms of third-party system failure, organizations sho
 <br>
 **Organizations can document the following:**
 - To what extent does the plan specifically address risks associated with acquisition, procurement of packaged software from vendors, cybersecurity controls, computational infrastructure, data, data science, deployment mechanics, and system failure?
-- Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
+- Did you establish a process for third parties (e.g. suppliers, end users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?
 - If your organization obtained datasets from a third party, did your organization assess and manage the risks of using such datasets?
 
 **AI Transparency Resources:**
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
-- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
-- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019, [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities. [URL](https://www.gao.gov/products/gao-21-519sp)
+- WEF Model AI Governance Framework Assessment 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
+- WEF Companion to the Model AI Governance Framework- 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019. [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm)
 
 </details>
 

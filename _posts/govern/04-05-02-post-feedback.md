@@ -3,7 +3,7 @@ date: 04-05-02
 title: GOVERN 5.2
 categories:
   - GOVERN-5
-description: Mechanisms are established to enable AI actors to regularly incorporate adjudicated stakeholder feedback into system design and implementation. 
+description: Mechanisms are established to enable AI actors to regularly incorporate adjudicated feedback from relevant AI actors into system design and implementation.
 type: Govern
 order_number: 2
 ---
@@ -13,22 +13,22 @@ order_number: 2
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-Organizational policies and procedures should be established to ensure that AI actors have the processes, knowledge, and expertise required to inform collaborative decisions about system deployment. These decisions are closely tied to AI system and organizational risk tolerance.
+Organizational policies and procedures that equip AI actors with the processes, knowledge, and expertise needed to inform collaborative decisions about system deployment improve risk management. These decisions are closely tied to AI systems and organizational risk tolerance.
 
-Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations should apply a risk tolerance approach where higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources.
+Risk tolerance, established by organizational leadership, reflects the level and type of risk the organization will accept while conducting its mission and carrying out its strategy. When risks arise, resources are allocated based on the assessed risk of a given AI system. Organizations typically apply a risk tolerance approach where higher risk systems receive larger allocations of risk management resources and lower risk systems receive less resources.
+
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
-* Explicitly acknowledge that AI systems, and the use of AI, present inherent costs and risks along with potential benefits.
-* Define reasonable risk tolerances for AI systems informed by laws, regulation, best practices, or industry standards.
-* Establish policies that define how to assign AI systems to established risk tolerance levels by combining system impact assessments with the likelihood that an impact occurs. Such assessment often entails some combination of:
-    * Econometric evaluations of impacts and impact likelihoods to assess AI system risk.
-    * Red-amber-green (RAG) scales for impact severity and likelihood to assess AI system risk.
-    * Establishment of policies for allocating risk management resources along established risk tolerance levels, with higher-risk systems receive more risk management resources and oversight.
-    * Establishment of policies for approval, conditional approval, and disapproval of the design, implementation, and deployment of AI systems.
-* Establish policies facilitating the early decommissioning of an AI system that is deemed risky beyond practical mitigation.
-
+<summary markdown="span">**Suggested Actions**</summary>
+- Explicitly acknowledge that AI systems, and the use of AI, present inherent costs and risks along with potential benefits.
+- Define reasonable risk tolerances for AI systems informed by laws, regulation, best practices, or industry standards.
+- Establish policies that define how to assign AI systems to established risk tolerance levels by combining system impact assessments with the likelihood that an impact occurs. Such assessment often entails some combination of:
+	- Econometric evaluations of impacts and impact likelihoods to assess AI system risk.
+	- Red-amber-green (RAG) scales for impact severity and likelihood to assess AI system risk.
+	- Establishment of policies for allocating risk management resources along established risk tolerance levels, with higher-risk systems receiving more risk management resources and oversight.
+	- Establishment of policies for approval, conditional approval, and disapproval of the design, implementation, and deployment of AI systems.
+- Establish policies facilitating the early decommissioning of an AI system that is deemed risky beyond practical mitigation.
 
 </details>
 
@@ -43,10 +43,10 @@ Risk tolerance, established by organizational leadership, reflects the level and
 - Does the AI solution provide sufficient information to assist the personnel to make an informed decision and take actions accordingly?
 
 **AI Transparency Resources:**
-- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
-- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- Stakeholders in Explainable AI, Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
-- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019, [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
+- WEF Model AI Governance Framework Assessment 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
+- WEF Companion to the Model AI Governance Framework- 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- Stakeholders in Explainable AI, Sep. 2018. [URL](http://arxiv.org/abs/1810.00184)
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019. [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm)
 
 </details>
 

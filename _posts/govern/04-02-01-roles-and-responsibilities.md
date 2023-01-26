@@ -3,7 +3,7 @@ date: 04-02-01
 title: GOVERN 2.1
 categories:
   - GOVERN-2 
-description: Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are clear to individuals and teams throughout the organization, and documented.
+description: Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization. 
 type: Govern
 order_number: 1
 ---
@@ -13,30 +13,32 @@ order_number: 1
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-The development of a risk-aware organizational culture starts with the definition of responsibilities. Under ideal risk management settings, oversight professionals are independent from model developers and report through risk management functions or directly to executives, countering implicit biases such as groupthink. This creates a firewall between technology development and risk management functions, so efforts cannot be easily bypassed or ignored.
+The development of a risk-aware organizational culture starts with defining responsibilities. For example, under some risk management structures, professionals carrying out test and evaluation  tasks are independent from AI system developers and report through risk management functions or directly to executives.  This kind of structure may help counter implicit biases such as groupthink or sunk cost fallacy and bolster risk management functions, so efforts are not  easily bypassed or ignored.
 
-Facilitating a culture where AI system design and implementation decisions can be questioned and course-corrected by empowered stakeholders provides organizations with tools to anticipate and effectively manage risks before they materialize.
+Instilling a culture where AI system design and implementation decisions can be questioned and course- corrected by empowered AI actors can enhance organizations’ abilities to anticipate and effectively manage risks before they become ingrained. 
 
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
-* Establish policies that define the AI risk management roles and responsibilities for positions directly and indirectly related to AI systems, including, but not limited to
-    * Boards of directors or advisory committees
-    * Senior management
-    * AI audit functions
-    * Product management
-    * Project management
-    * AI design
-    * AI development
-    * Human-AI interaction
-    * AI testing and evaluation
-    * AI acquisition and procurement
-    * Impact assessment functions
-    * Oversight functions 
-* Establish policies that promote regular communication among AI actors participating in AI risk management efforts.
-* Establish policies that separate management of AI system development functions from AI system testing functions, to enable independent course-correction of AI systems.
-* Establish policies to identify, increase the transparency of, and prevent conflicts of interest in AI risk management, and to counteract confirmation bias and market incentives that may hinder AI risk management efforts.
+<summary markdown="span">**Suggested Actions**</summary>
+- Establish policies that define the AI risk management roles and responsibilities for positions directly and indirectly related to AI systems, including, but not limited to
+	- Boards of directors or advisory committees
+	- Senior management
+	- AI audit functions
+	- Product management
+	- Project management
+	- AI design
+	- AI development
+	- Human-AI interaction
+	- AI testing and evaluation
+	- AI acquisition and procurement
+	- Impact assessment functions
+	- Oversight functions
+- Establish policies that promote regular communication among AI actors participating in AI risk management efforts.
+- Establish policies that separate management of AI system development functions from AI system testing functions, to enable independent course-correction of AI systems.
+- Establish policies to identify, increase the transparency of, and prevent conflicts of interest in AI risk management, and to counteract confirmation bias and market incentives that may hinder AI risk management efforts.
+- Establish policies that incentivize AI actors to collaborate with existing legal, oversight, compliance, or enterprise risk functions in their AI risk management activities.
+
 </details>
 
 <details>
@@ -50,9 +52,9 @@ Facilitating a culture where AI system design and implementation decisions can b
 - Did your organization implement accountability-based practices in data management and protection (e.g. the PDPA and OECD Privacy Principles)?
 
 **AI Transparency Resources:**
-- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
-- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
+- WEF Model AI Governance Framework Assessment 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
+- WEF Companion to the Model AI Governance Framework- 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities. [URL](https://www.gao.gov/products/gao-21-519sp)
 
 </details>
 
@@ -66,5 +68,7 @@ Off. Superintendent Fin. Inst. Canada, Enterprise-Wide Model Risk Management for
 Bd. Governors Fed. Rsrv. Sys., Supervisory Guidance on Model Risk Management, SR Letter 11-7 (Apr. 4, 2011).
 
 Off. Comptroller Currency, Comptroller’s Handbook: Model Risk Management (Aug. 2021). [URL](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
+
+ISO, “Information Technology — Artificial Intelligence — Guidelines for AI applications,” ISO/IEC CD 5339. See Section 6, “Stakeholders’ perspectives and AI application framework.” [URL](https://www.iso.org/standard/81120.html)
 
 </details>

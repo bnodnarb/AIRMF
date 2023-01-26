@@ -3,7 +3,7 @@ date: 04-05-01
 title: GOVERN 5.1
 categories:
   - GOVERN-5
-description: Organizational policies and practices are in place to collect, consider, prioritize, and integrate external stakeholder feedback regarding the potential individual and societal impacts related to AI risks.
+description: Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those external to the team that developed or deployed the AI system regarding the potential individual and societal impacts related to AI risks. 
 type: Govern
 order_number: 1
 ---
@@ -13,28 +13,28 @@ order_number: 1
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-Beyond internal and laboratory-based system testing, organizational policies and practices should also consider AI system fitness-for-purpose related to the intended context of use.
+Beyond internal and laboratory-based system testing, organizational policies and practices may consider AI system fitness-for-purpose related to the intended context of use.
 
-Participatory stakeholder engagement is one type of qualitative activity to help AI actors answer questions such as whether to pursue a project or how to design with impact in mind. The consideration of when and how to convene a group and the kinds of individuals, groups, or community organizations to include is an iterative process connected to the system purpose and its level of risk. Other factors relate to how to collaboratively and respectfully capture stakeholder feedback and insight that is useful, without being a solely perfunctory exercise.
+Participatory stakeholder engagement is one type of qualitative activity to help AI actors answer questions such as whether to pursue a project or how to design with impact in mind. This type of feedback, with domain expert input, can also assist AI actors to identify emergent scenarios and risks in certain AI applications. The consideration of when and how to convene a group and the kinds of individuals, groups, or community organizations to include is an iterative process connected to the system's purpose and its level of risk. Other factors relate to how to collaboratively and respectfully capture stakeholder feedback and insight that is useful, without being a solely perfunctory exercise.
 
 These activities are best carried out by personnel with expertise in participatory practices, qualitative methods, and translation of contextual feedback for technical audiences.
 
-Participatory engagement is not a one-time exercise and should be carried out from the very beginning of AI system commissioning through the end of the lifecycle. Organizations can consider how to incorporate engagement when beginning a project and as part of their monitoring of systems. Engagement is often utilized as a consultative practice, but this perspective may inadvertently lead to “participation washing.”  Organizational transparency about the purpose and goal of the engagement can help mitigate that possibility.
+Participatory engagement is not a one-time exercise and is best carried out from the very beginning of AI system commissioning through the end of the lifecycle. Organizations can consider how to incorporate engagement when beginning a project and as part of their monitoring of systems. Engagement is often utilized as a consultative practice, but this perspective may inadvertently lead to “participation washing.” Organizational transparency about the purpose and goal of the engagement can help mitigate that possibility.
 
-Organizations may also consider targeted consultation with subject matter experts as a complement to participatory findings. Experts may assist internal staff in identifying and conceptualizing potential negative impacts that were previously not considered. 
+Organizations may also consider targeted consultation with subject matter experts as a complement to participatory findings. Experts may assist internal staff in identifying and conceptualizing potential negative impacts that were previously not considered.
 
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
-* Establish AI risk management policies that explicitly address mechanisms for collecting, evaluating, and incorporating stakeholder and user feedback that could include:
-    * Recourse mechanisms for faulty AI system outputs.
-    * Bug bounties.
-    * Human-centered design.
-    * User-interaction and experience research.
-    * Participatory stakeholder engagement with individuals and communities that may experience negative impacts. 
-* Verify that stakeholder feedback is considered and addressed, including environmental concerns, and across the entire population of intended users, including historically excluded populations, people with disabilities, older people, and those with limited access to the internet and other basic technologies.
-* Clarify the organization’s principles as they apply to AI systems – considering those which have been proposed publicly – to inform external stakeholders of the organization's values. Consider publishing or adopting AI principles.
+<summary markdown="span">**Suggested Actions**</summary>
+- Establish AI risk management policies that explicitly address mechanisms for collecting, evaluating, and incorporating stakeholder and user feedback that could include:
+	- Recourse mechanisms for faulty AI system outputs.
+	- Bug bounties.
+	- Human-centered design.
+	- User-interaction and experience research.
+	- Participatory stakeholder engagement with individuals and communities that may experience negative impacts.
+- Verify that stakeholder feedback is considered and addressed, including environmental concerns, and across the entire population of intended users, including historically excluded populations, people with disabilities, older people, and those with limited access to the internet and other basic technologies.
+- Clarify the organization’s principles as they apply to AI systems – considering those which have been proposed publicly – to inform external stakeholders of the organization’s values. Consider publishing or adopting AI principles.
 
 </details>
 
@@ -49,10 +49,10 @@ Organizations may also consider targeted consultation with subject matter expert
 - Stakeholder involvement: Include diverse perspectives from a community of stakeholders throughout the AI life cycle to mitigate risks.
 
 **AI Transparency Resources:**
-- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
-- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019, [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm).
-- Stakeholders in Explainable AI, Sep. 2018, [URL](http://arxiv.org/abs/1810.00184).
+- Datasheets for Datasets. [URL](http://arxiv.org/abs/1803.09010)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities. [URL](https://www.gao.gov/products/gao-21-519sp)
+- AI policies and initiatives, in Artificial Intelligence in Society, OECD, 2019. [URL](https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm)
+- Stakeholders in Explainable AI, Sep. 2018. [URL](http://arxiv.org/abs/1810.00184)
 
 </details>
 
@@ -69,4 +69,5 @@ Josh Kenway, Camille Francois, Dr. Sasha Costanza-Chock, Inioluwa Deborah Raji, 
 
 Microsoft Community Jury , Azure Application Architecture Guide. [URL](https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/)
 
+“Definition of independent verification and validation (IV&V)”, in IEEE 1012, IEEE Standard for System, Software, and Hardware Verification and Validation. Annex C, [URL](https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf)
 </details>
