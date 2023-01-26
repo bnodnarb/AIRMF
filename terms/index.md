@@ -11,7 +11,7 @@ permalink:
 <button class="btn" style="float:right"><a href="{{ site.baseurl }}/terms/terms.pdf" download><i class="fa fa-download">&nbsp;&nbsp;&nbsp;&nbsp;</i></a></button>
 
 
-**<u>AI Actors and Tasks</u> (descriptions excerpted from AI RMF Appendix A)**
+**<u>AI Actors and Tasks</u>**
 
 **AI Design** actors create the concept and objectives of AI systems and are responsible for the planning, design, and data collection and processing tasks of the AI system so that the AI system is lawful and fit-for-purpose. Tasks include articulating and documenting the system’s concept and objectives, underlying assumptions, context, and requirements; gathering and cleaning data; and documenting the metadata and characteristics of the dataset. 
 
