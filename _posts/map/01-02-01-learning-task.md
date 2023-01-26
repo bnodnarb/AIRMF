@@ -3,7 +3,7 @@ date: 01-02-01
 title: MAP 2.1
 categories:
   - MAP-2
-description: The specific task, and methods used to implement the task, that the AI system will support is defined (e.g., classifiers, generative models, recommenders, etc.). 
+description: The specific task, and methods used to implement the task, that the AI system will support is defined (e.g., classifiers, generative models, recommenders). 
 type: Map
 order_number: 1
 ---
@@ -15,14 +15,14 @@ order_number: 1
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-AI actors should define the technical learning or decision-making task an AI system is designed to accomplish, along with the benefits that the system will provide. The clearer and narrower the task definition, the easier it is to map its benefits and risks, leading to more fulsome risk management.
+AI actors define the technical learning or decision-making task(s) an AI system is designed to accomplish, or the benefits that the system will provide. The clearer and narrower the task definition, the easier it is to map its benefits and risks, leading to more fulsome risk management.
 
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
+<summary markdown="span">**Suggested Actions**</summary>
 
-* Define and document AI system existing and potential learning task(s) along with known assumptions and limitations.
+- Define and document AI system’s existing and potential learning task(s) along with known assumptions and limitations.
 
 </details>
 
@@ -39,11 +39,11 @@ AI actors should define the technical learning or decision-making task an AI sys
 
 **AI Transparency Resources:**
 
-- Datasheets for Datasets, [URL](http://arxiv.org/abs/1803.09010).
-- WEF Model AI Governance Framework Assessment 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf).
-- WEF Companion to the Model AI Governance Framework- 2020, [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf).
-- ATARC Model Transparency Assessment (WD) – 2020, [URL](https://atarc.org/wp-content/uploads/2020/10/atarc_model_transparency_assessment-FINAL-092020-2.docx).
-- Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020, [URL](https://lucris.lub.lu.se/ws/files/79208055/Larsson_Heintz_2020_Transparency_in_artificial_intelligence_2020_05_05.pdf).
+- Datasheets for Datasets. [URL](http://arxiv.org/abs/1803.09010)
+- WEF Model AI Governance Framework Assessment 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
+- WEF Companion to the Model AI Governance Framework- 2020. [URL](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf)
+- ATARC Model Transparency Assessment (WD) – 2020. [URL](https://atarc.org/wp-content/uploads/2020/10/atarc_model_transparency_assessment-FINAL-092020-2.docx)
+- Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020. [URL](https://lucris.lub.lu.se/ws/files/79208055/Larsson_Heintz_2020_Transparency_in_artificial_intelligence_2020_05_05.pdf)
 
 </details>
 

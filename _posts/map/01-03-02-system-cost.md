@@ -3,7 +3,7 @@ date: 01-03-02
 title: MAP 3.2
 categories:
   - MAP-3
-description: Potential costs, including non-monetary costs, which result from expected or realized errors or system performance are examined and documented.
+description: Potential costs, including non-monetary costs, which result from expected or realized AI errors or system functionality and trustworthiness - as connected to organizational risk tolerance - are examined and documented.
 type: Map
 order_number: 2
 ---
@@ -15,19 +15,19 @@ order_number: 2
 <details>
 <summary markdown="span">**About**</summary>
 <br>
-Anticipating negative impacts of AI systems is a difficult task. Negative impacts can be due to many factors, such as poor system performance, and may range from minor annoyance to serious injury, financial losses, or regulatory enforcement actions. AI actors can work with a broad set of stakeholders to improve their capacity for assessing system impacts – and subsequently – system risks. Hasty or non-thorough impact assessments may result in erroneous determinations of no-risk for more complex or higher risk systems.
+Anticipating negative impacts of AI systems is a difficult task. Negative impacts can be due to many factors, such as system non-functionality or use outside of its operational limits, and may range from minor annoyance to serious injury, financial losses, or regulatory enforcement actions. AI actors can work with a broad set of stakeholders to improve their capacity for understanding  systems’ potential impacts – and subsequently – systems’ risks. 
 
 </details>
 
 <details>
-<summary markdown="span">**Actions**</summary>
+<summary markdown="span">**Suggested Actions**</summary>
 
-* Perform a context analysis to map negative impacts arising from not integrating trustworthiness characteristics. When negative impacts are not direct or obvious, AI actors should engage with external stakeholders to investigate and document:
-    * Who could be harmed?
-    * What could be harmed?
-    * When could harm arise?
-    * How could harm arise?
-* Implement procedures for regularly evaluating the qualitative and quantitative costs of internal and external AI system failures. Develop actions to prevent, detect, and/or correct  potential risks and related impacts. Regularly evaluate failure costs to inform go/no-go deployment decisions throughout the AI system lifecycle.
+- Perform context analysis to map potential negative impacts arising from not integrating trustworthiness characteristics. When negative impacts are not direct or obvious, AI actors can engage with stakeholders external to the team that developed or deployed the AI system, and potentially impacted communities, to examine and document:
+	- Who could be harmed?
+	- What could be harmed?
+	- When could harm arise?
+	- How could harm arise?
+- Identify and implement procedures for regularly evaluating the qualitative and quantitative costs of internal and external AI system failures. Develop actions to prevent, detect, and/or correct potential risks and related impacts. Regularly evaluate failure costs to inform go/no-go deployment decisions throughout the AI system lifecycle.
 
 </details>
 
@@ -40,9 +40,9 @@ Anticipating negative impacts of AI systems is a difficult task. Negative impact
 - Have you documented and explained that machine errors may differ from human errors?
 
 **AI Transparency Resources:**
-- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020, [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community).
-- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities, [URL](https://www.gao.gov/products/gao-21-519sp).
-- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019, [LINK](https://altai.insight-centre.org/), [URL](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment).
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020. [URL](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities. [URL](https://www.gao.gov/products/gao-21-519sp)
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019. [LINK](https://altai.insight-centre.org/), [URL](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
 
 </details>
 
