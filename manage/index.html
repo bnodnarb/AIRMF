@@ -1,0 +1,43 @@
+---
+---
+<head>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/font-awesome.min.css">
+</head>
+
+<button class="btn" style="float:right"><a href="{{ site.baseurl }}/manage/manage.pdf" download><i class="fa fa-download">&nbsp;&nbsp;</i></a></button>
+
+<h2>MANAGE</h2>
+<p style="font-family:'Arial'">
+The MANAGE function utilizes systematic documentation practices established in GOVERN, contextual information from MAP, and empirical information from MEASURE to treat identified risks and decrease the likelihood of system failures and negative impacts.
+<br>
+<br>
+Risk treatment comprises plans to respond to, recover from, and communicate about incidents or events. 
+<br>
+<br>
+After completing the MANAGE function, plans for prioritizing risk and continuous monitoring and improvement will be in place. 
+
+</p>
+
+
+<div class="wrapper">
+{% assign categories=site.data.category %}
+{% for category in categories %}
+        {% if category.name contains 'MANAGE' %}
+              {% assign category_name = category.name %}
+              {% assign posts = site.categories[category_name] | sort: "order_number" %}
+              <button class="accordion" style="--color: #255888; --fcolor: #FBFAF5"><strong>{{ category.name }}: {{ category.title }}</strong></button>
+          	<div class="panel">
+                        {% for post in posts %}
+             			<button class="linkbtn">
+             			&#128279; <a target="_self" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ post.title }}: {{ post.description }} </a>
+             			</button>
+                                <br>
+                                <br>
+                        {% endfor %}
+                </div>
+              <br>
+        {% endif %} 
+{% endfor %}
+</div>
+
+
