@@ -1,0 +1,39 @@
+---
+---
+<head>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/font-awesome.min.css">
+</head>
+
+<button class="btn" style="float:right"><a href="{{ site.baseurl }}/measure/measure.pdf" download><i class="fa fa-download">&nbsp;&nbsp;</i></a></button>
+
+<h2>MEASURE</h2>
+<p style="font-family:'Arial'">
+The MEASURE function employs quantitative, qualitative, or mixed-method tools, techniques, and methodologies to analyze, assess, benchmark, and monitor AI risk and related impacts. 
+<br>
+<br>
+MEASURE uses knowledge relevant to AI risks identified in the MAP function and informs the MANAGE function risk monitoring and response efforts. 
+</p>
+
+
+<div class="wrapper">
+{% assign categories=site.data.category %}
+{% for category in categories %}
+        {% if category.name contains 'MEASURE' %}
+              {% assign category_name = category.name %}
+              {% assign posts = site.categories[category_name] | sort: "order_number" %}
+              <button class="accordion" style="--color: #f3d05d"><strong>{{ category.name }}: {{ category.title }}</strong></button>
+          	<div class="panel">
+                        {% for post in posts %}
+             			<button class="linkbtn">
+             			&#128279; <a target="_self" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ post.title }}: {{ post.description }} </a>
+             			</button>
+                                <br>
+                                <br>
+                        {% endfor %}
+                </div>
+              <br>
+        {% endif %} 
+{% endfor %}
+</div>
+
+
