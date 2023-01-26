@@ -3,19 +3,19 @@
   description: In this category, AI Actors will define the AI system context of use, business value and mission goals, set of stakeholders for regular engagement, and system requirements and design decisions. At the end of this exercise, AI actors should have sufficient contextual information to make decisions about downstream processes. 
 
 - name: MAP-2
-  title: Classification of the AI system is performed.
+  title: Categorization of the AI system is performed.
   description: In this category, AI Actors will contextually define the learning task of the system, deployment factors, and dataset considerations. Upon completion, AI actors will have refined the system scope.
 
 - name: MAP-3
-  title: AI capabilities, targeted usage, goals, and expected benefits and costs compared with the status quo are understood.
+  title: AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood.
   description: In this category, AI Actors will have contextually defined AI system costs (both monetary and otherwise) and benefits beyond the status quo. Upon completion, AI actors should have sufficient knowledge to identify system risks and other impacts.
 
 - name: MAP-4
-  title: Risks and benefits are mapped for third-party software and data.
+  title: Risks and benefits are mapped for all components of the AI system including third-party software and data.
   description: In this category, AI Actors will pay specific attention to risks due to third-party factors. Upon completion, AI actors should have instituted controls for these risks.
 
 - name: MAP-5
-  title: Impacts to individuals, groups, communities, organizational, or society are assessed.
+  title: Impacts to individuals, groups, communities, organizations, and society are characterized.
   description: In this category, AI Actors will carry out an impact assessment by identifying known risks and processes to consider emergent risks. Upon completion, AI actors should have sufficient knowledge to make a go/no-go decision for deploying an AI system.
 
 - name: GOVERN-1
@@ -31,13 +31,45 @@
   description: In this category, management ensures organizational effectiveness through a diverse workforce and consultation with external stakeholders.
 
 - name: GOVERN-4
-  title: Organizational teams are committed to a culture that considers and communicates risk.
+  title: Organizational teams are committed to a culture that considers and communicates AI risk.
   description: In this category, Organizational management fosters a strong internal risk culture.
 
 - name: GOVERN-5
-  title: Processes are in place for robust stakeholder engagement.
+  title: Processes are in place for robust engagement with relevant AI actors.
   description: In this category, Organizational management formalizes processes for receiving, processing, and implementing stakeholder, user, or subject feedback. 
 
 - name: GOVERN-6
-  title: Clear policies and procedures are in place to address AI risks arising from third-party software and data and other supply chain issues.
+  title: Policies and procedures are in place to address AI risks and benefits arising from third-party software and data and other supply chain issues.
   description: In this category, organizational management establishes policies to consider risks from externally provided resources.
+
+- name: MANAGE-1
+  title: AI risks based on assessments and other analytical output from the Map and Measure functions are prioritized, responded to, and managed. 
+  description: management. 
+
+- name: MANAGE-2
+  title: Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, and documented, and informed by input from relevant AI actors. 
+  description: management.
+
+- name: MANAGE-3
+  title: AI risks and benefits from third-party entities are managed.                                                                                                                                         
+  description: management.
+
+- name: MANAGE-4
+  title: Risk treatments including response and recovery, and communication plans to the identified and measured AI risks are documented and monitored regularly.
+  description: management.
+
+- name: MEASURE-1
+  title: Appropriate methods and metrics are identified and applied.
+  description: measure. 
+
+- name: MEASURE-2
+  title: AI systems are evaluated for trustworthy characteristics.
+  description: measure.
+
+- name: MEASURE-3
+  title: Mechanisms for tracking identified AI risks over time are in place.
+  description: measure.
+
+- name: MEASURE-4
+  title: Feedback about efficacy of measurement is gathered and assessed.
+  description: measure.
