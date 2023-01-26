@@ -11,14 +11,14 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 AI systems – like any technology – can demonstrate non-functionality or failure or unexpected and unusual behavior. They also can be subject to attacks, incidents, or other misuse of abuses – which their sources are not always known apriori. Organizations can establish, document, communicate and maintain treatment procedures to recognize and counter, mitigate and manage risks that were not previously identified.
 
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Protocols, resources, and metrics  are in place for continual monitoring of AI systems’ performance, trustworthiness, and alignment with contextual norms and values 
 - Establish and regularly review treatment and response plans for incidents, negative impacts, or outcomes.
@@ -31,7 +31,7 @@ AI systems – like any technology – can demonstrate non-functionality or fail
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -50,7 +50,7 @@ AI systems – like any technology – can demonstrate non-functionality or fail
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 AI Incident Database. 2022. AI Incident Database. [URL](https://incidentdatabase.ai/)

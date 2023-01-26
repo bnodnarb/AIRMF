@@ -11,14 +11,14 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 AI systems may depend on external resources and associated processes, including third-party data, software or hardware systems. Third parties’ supplying organizations with components and services, including tools, software, and expertise for AI system design, development, deployment or use can improve efficiency and scalability. It can also increase complexity and opacity, and, in-turn, risk. Documenting third-party technologies, personnel, and resources that were employed can help manage risks. Focusing first and foremost on risks involving physical safety, legal liabilities, regulatory compliance, and negative impacts on individuals, groups, or society is recommended. 
 
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Have legal requirements been addressed?
 - Apply organizational risk tolerance to third-party AI systems.
@@ -34,7 +34,7 @@ AI systems may depend on external resources and associated processes, including 
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -52,7 +52,7 @@ AI systems may depend on external resources and associated processes, including 
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 Office of the Comptroller of the Currency. 2021. Proposed Interagency Guidance on Third-Party Relationships: Risk Management. July 12, 2021. [URL](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf)
 

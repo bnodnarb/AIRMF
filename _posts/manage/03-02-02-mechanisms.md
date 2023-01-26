@@ -11,7 +11,7 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 System performance and trustworthiness may evolve and shift over time, once an AI system is deployed and put into operation. This phenomenon, generally known as drift, can degrade the value of the AI system to the organization and increase the likelihood of negative impacts.  Regular monitoring of AI systems’ performance and trustworthiness enhances organizations’ ability to detect and respond to drift, and thus sustain an AI system’s value once deployed. Processes and mechanisms for regular monitoring address system functionality and behavior - as well as impacts and alignment with the values and norms within the specific context of use. For example, considerations regarding impacts on personal or public safety or privacy may include limiting high speeds when operating autonomous vehicles or restricting illicit content recommendations for minors. 
 
@@ -20,7 +20,7 @@ Regular monitoring activities can enable organizations to systematically and pro
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Establish risk controls considering trustworthiness characteristics, including:
 	- Data management, quality, and privacy (e.g. minimization, rectification or deletion requests) controls as part of organizational data governance policies. 
@@ -39,7 +39,7 @@ Regular monitoring activities can enable organizations to systematically and pro
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -56,7 +56,7 @@ Regular monitoring activities can enable organizations to systematically and pro
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 **Safety, Validity and Reliability Risk Management Approaches and Resources**

@@ -11,14 +11,14 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 Organizational risk response may entail identifying and analyzing alternative approaches, methods, processes or systems, and balancing tradeoffs between trustworthiness characteristics and how they relate to organizational principles and societal values. Analysis of these tradeoffs is informed by consulting with interdisciplinary organizational teams, independent domain experts, and engaging with individuals or community groups. These processes require sufficient resource allocation. 
 
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Plan and implement risk management practices in accordance with established organizational risk tolerances.
 - Verify risk management teams are resourced to carry out functions, including
@@ -38,7 +38,7 @@ Organizational risk response may entail identifying and analyzing alternative ap
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -55,7 +55,7 @@ Organizational risk response may entail identifying and analyzing alternative ap
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). [URL](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)

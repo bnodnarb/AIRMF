@@ -11,14 +11,14 @@ order_number: 1
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 AI systems may not necessarily be the right solution for a given business task or problem. A standard risk management practice is to formally weigh an AI system’s negative risks against its benefits, and to determine if the AI system is an  appropriate solution. Tradeoffs among trustworthiness characteristics —such as deciding to deploy a system based on system performance vs system transparency–may require regular assessment throughout the AI lifecycle.
 
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Consider trustworthiness characteristics when evaluating AI systems’ negative risks and benefits.
 - Utilize TEVV outputs from map and measure functions when considering risk treatment.
@@ -29,7 +29,7 @@ AI systems may not necessarily be the right solution for a given business task o
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -46,7 +46,7 @@ AI systems may not necessarily be the right solution for a given business task o
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 Arvind Narayanan. How to recognize AI snake oil. Retrieved October 15, 2022. [URL](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)

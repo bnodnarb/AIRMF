@@ -11,14 +11,14 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 Outcomes from GOVERN-1, MAP-5 and MEASURE-2, can be used to address and document identified risks based on established risk tolerances. Organizations can follow existing regulations and guidelines for risk criteria, tolerances and responses established by organizational, domain, discipline, sector, or professional requirements. In lieu of such guidance, organizations can develop risk response plans based on strategies such as accepted model risk management or enterprise risk management practices. 
 
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Observe regulatory and established organizational, sector, discipline, or professional standards and requirements for applying risk tolerances within the organization.
 - Document procedures for acting on AI system risks related to trustworthiness characteristics.
@@ -29,7 +29,7 @@ Outcomes from GOVERN-1, MAP-5 and MEASURE-2, can be used to address and document
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -45,7 +45,7 @@ Outcomes from GOVERN-1, MAP-5 and MEASURE-2, can be used to address and document
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 Arvind Narayanan. How to recognize AI snake oil. Retrieved October 15, 2022. [URL](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)

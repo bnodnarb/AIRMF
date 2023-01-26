@@ -11,14 +11,14 @@ order_number: 4
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 Organizations may choose to accept or transfer some of the documented risks  from MAP and MANAGE 1.3 and 2.1.  Such risks, known as residual risk, may affect downstream AI actors such as those engaged in system procurement or use. Transparent monitoring and managing residual risks enables cost benefit analysis and the examination of potential values of AI systems versus its potential negative impacts.
 
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Document residual risks within risk response plans, denoting risks that have been accepted, transferred, or subject to minimal mitigation. 
 - Establish procedures for disclosing residual risks to relevant downstream AI actors .
@@ -27,7 +27,7 @@ Organizations may choose to accept or transfer some of the documented risks  fro
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -45,7 +45,7 @@ Organizations may choose to accept or transfer some of the documented risks  fro
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 Arvind Narayanan. How to recognize AI snake oil. Retrieved October 15, 2022. [URL](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)

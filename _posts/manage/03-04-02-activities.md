@@ -11,7 +11,7 @@ order_number: 2
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 Regular monitoring processes enable system updates to enhance performance and functionality in accordance with regulatory and legal frameworks, and organizational and contextual values and norms. These processes also facilitate analyses of root causes, system degradation, drift, and failure, and incident response and documentation. 
 
@@ -20,7 +20,7 @@ AI actors across the lifecycle have many opportunities to capture and incorporat
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Integrate trustworthiness characteristics into protocols and metrics used for continual improvement.
 - Establish processes for evaluating and integrating feedback into AI system improvements.
@@ -31,7 +31,7 @@ AI actors across the lifecycle have many opportunities to capture and incorporat
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -47,7 +47,7 @@ AI actors across the lifecycle have many opportunities to capture and incorporat
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 Yen, Po-Yin, et al. "Development and Evaluation of Socio-Technical Metrics to Inform HIT Adaptation." [URL](https://digital.ahrq.gov/sites/default/files/docs/citation/r21hs024767-yen-final-report-2019.pdf)
 

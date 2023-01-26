@@ -11,7 +11,7 @@ order_number: 3
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 Regularly documenting an accurate and transparent account of identified and reported errors can enhance AI risk management activities., Examples include:
 - how errors were identified, 
@@ -22,7 +22,7 @@ Regularly documenting an accurate and transparent account of identified and repo
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Establish procedures to regularly share information about errors, incidents and negative impacts with relevant stakeholders, operators, practitioners and users, and impacted parties.
 - Maintain a database of reported errors, incidents and negative impacts including date reported, number of reports, assessment of impact and severity, and responses.
@@ -33,7 +33,7 @@ Regularly documenting an accurate and transparent account of identified and repo
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -48,7 +48,7 @@ Regularly documenting an accurate and transparent account of identified and repo
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 Wei, M., & Zhou, Z. (2022). AI Ethics Issues in Real World: Evidence from AI Incident Database. ArXiv, abs/2206.07635. [URL](https://arxiv.org/pdf/2206.07635.pdf)
 

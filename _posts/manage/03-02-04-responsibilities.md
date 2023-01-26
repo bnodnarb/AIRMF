@@ -11,7 +11,7 @@ order_number: 4
 
 
 <details>
-<summary markdown="span">**About**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**About**</span></summary>      
 <br>
 Superseding (bypassing), disengaging, or deactivating/decommissioning a model, AI system component(s), or the entire AI system may be necessary when: 
 - a system reaches the end of its lifetime
@@ -25,7 +25,7 @@ Safely removing AI systems from operation, either temporarily or permanently, un
 </details>
 
 <details>
-<summary markdown="span">**Suggested Actions**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Suggested Actions**</span></summary>
 
 - Regularly review established procedures for AI system bypass actions, including plans for redundant or backup systems to ensure continuity of operational and/or business functionality.
 - Regularly review Identify system incident thresholds for activating bypass or deactivation responses.
@@ -39,7 +39,7 @@ Safely removing AI systems from operation, either temporarily or permanently, un
 </details>
 
 <details>
-<summary markdown="span">**Transparency and Documentation**</summary>
+<summary markdown="span"><span style="color:#FBFAF5">**Transparency and Documentation**</span></summary>
 <br>
 **Organizations can document the following:**
 
@@ -57,7 +57,7 @@ Safely removing AI systems from operation, either temporarily or permanently, un
 </details>
 
 <details>
-<summary markdown="span">**References**</summary>      
+<summary markdown="span"><span style="color:#FBFAF5">**References**</span></summary>      
 <br>
 
 Decommissioning Template. Application Lifecycle And Supporting Docs. Cloud and Infrastructure Community of Practice. [URL](https://www.cio.gov/policies-and-priorities/application-lifecycle/)
