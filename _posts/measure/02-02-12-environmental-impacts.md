@@ -3,7 +3,7 @@ date: 02-02-12
 title: MEASURE 2.12
 categories:
   - MEASURE-2
-description: TEnvironmental impact and sustainability of AI model training and management activities – as identified in the MAP function – are assessed and documented.
+description: Environmental impact and sustainability of AI model training and management activities – as identified in the MAP function – are assessed and documented.
 type: Measure
 order_number: 12
 ---
